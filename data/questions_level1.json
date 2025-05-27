@@ -1,0 +1,293 @@
+[
+  {
+    "questionText": "Mickey Mouse's first appearance was in the 1928 short film 'Steamboat Willie'.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Pluto is Mickey Mouse's loyal dog.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Cinderella's Fairy Godmother turned a pumpkin into a carriage.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "In 'Finding Nemo', what type of fish is Nemo?",
+    "questionType": "MultipleChoice",
+    "options": ["Clownfish", "Angelfish", "Surgeonfish", "Pufferfish"],
+    "correctAnswer": "Clownfish",
+    "universe": "Disney",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "What color is Donald Duck's bowtie?",
+    "questionType": "MultipleChoice",
+    "options": ["Red", "Blue", "Green", "Yellow"],
+    "correctAnswer": "Red",
+    "universe": "Disney",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Which Disney princess has a raccoon named Meeko as a friend?",
+    "questionType": "MultipleChoice",
+    "options": ["Pocahontas", "Mulan", "Ariel", "Belle"],
+    "correctAnswer": "Pocahontas",
+    "universe": "Disney",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Spider-Man's real name is Peter Parker.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Captain America's shield is made of vibranium.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "The Hulk's original skin color was grey, not green.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "What is the name of Thor's hammer?",
+    "questionType": "MultipleChoice",
+    "options": ["Mjolnir", "Stormbreaker", "Gungnir", "Vanir"],
+    "correctAnswer": "Mjolnir",
+    "universe": "Marvel",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "What metal are Wolverine's claws made of?",
+    "questionType": "MultipleChoice",
+    "options": ["Adamantium", "Vibranium", "Steel", "Titanium"],
+    "correctAnswer": "Adamantium",
+    "universe": "Marvel",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Which of these characters is NOT one of the original Avengers in the MCU?",
+    "questionType": "MultipleChoice",
+    "options": ["Iron Man", "Hawkeye", "Black Widow", "Spider-Man"],
+    "correctAnswer": "Spider-Man",
+    "universe": "Marvel",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Darth Vader is Luke Skywalker's father.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "The first Star Wars film was released in 1977.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Yoda is a Jedi Master who lived for over 900 years.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "What is the name of Han Solo's ship?",
+    "questionType": "MultipleChoice",
+    "options": ["Millennium Falcon", "Star Destroyer", "X-Wing", "TIE Fighter"],
+    "correctAnswer": "Millennium Falcon",
+    "universe": "StarWars",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "What color is Darth Vader's lightsaber?",
+    "questionType": "MultipleChoice",
+    "options": ["Red", "Blue", "Green", "Purple"],
+    "correctAnswer": "Red",
+    "universe": "StarWars",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Which planet is home to Chewbacca and the Wookiees?",
+    "questionType": "MultipleChoice",
+    "options": ["Kashyyyk", "Tatooine", "Endor", "Naboo"],
+    "correctAnswer": "Kashyyyk",
+    "universe": "StarWars",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "The Disney character Goofy is a dog.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "In 'The Lion King', Simba's father is named Mufasa.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "In 'Aladdin', the main character finds a magic carpet.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "In 'Frozen', what is the name of Anna and Elsa's kingdom?",
+    "questionType": "MultipleChoice",
+    "options": ["Arendelle", "Corona", "Agrabah", "Dunbroch"],
+    "correctAnswer": "Arendelle",
+    "universe": "Disney",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "What is the name of Woody's owner in 'Toy Story'?",
+    "questionType": "MultipleChoice",
+    "options": ["Andy", "Sid", "Bonnie", "Molly"],
+    "correctAnswer": "Andy",
+    "universe": "Disney",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Which princess has a fairy godmother?",
+    "questionType": "MultipleChoice",
+    "options": ["Cinderella", "Snow White", "Ariel", "Jasmine"],
+    "correctAnswer": "Cinderella",
+    "universe": "Disney",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Tony Stark is Iron Man.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Bruce Banner transforms into the Hulk when he's angry.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "The Winter Soldier is Bucky Barnes, Captain America's friend.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "What is the name of the alien race that invades Earth in 'The Avengers'?",
+    "questionType": "MultipleChoice",
+    "options": ["Chitauri", "Skrulls", "Kree", "Frost Giants"],
+    "correctAnswer": "Chitauri",
+    "universe": "Marvel",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Which of these characters can shrink in size?",
+    "questionType": "MultipleChoice",
+    "options": ["Ant-Man", "Hawkeye", "Black Widow", "Falcon"],
+    "correctAnswer": "Ant-Man",
+    "universe": "Marvel",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Which Avenger is known as the 'God of Thunder'?",
+    "questionType": "MultipleChoice",
+    "options": ["Thor", "Loki", "Odin", "Heimdall"],
+    "correctAnswer": "Thor",
+    "universe": "Marvel",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Jedi Knights use lightsabers as their weapon.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "The Rebel Alliance's symbol is a starbird.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Ewoks live on the forest moon of Endor.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "What is the name of Darth Vader's grandson?",
+    "questionType": "MultipleChoice",
+    "options": ["Kylo Ren", "Poe Dameron", "Finn", "General Hux"],
+    "correctAnswer": "Kylo Ren",
+    "universe": "StarWars",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Who is Luke Skywalker's twin sister?",
+    "questionType": "MultipleChoice",
+    "options": ["Leia", "Rey", "Padmé", "Ahsoka"],
+    "correctAnswer": "Leia",
+    "universe": "StarWars",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "What kind of creature is Jabba?",
+    "questionType": "MultipleChoice",
+    "options": ["Hutt", "Twi'lek", "Gungan", "Wookiee"],
+    "correctAnswer": "Hutt",
+    "universe": "StarWars",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "In 'Moana', the demigod Maui can shapeshift.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "The Beast in 'Beauty and the Beast' was once a prince.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Dory from 'Finding Nemo' suffers from short-term memory loss.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 1
+  }
+]

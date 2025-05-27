@@ -1,0 +1,274 @@
+[
+  {
+    "questionText": "The Disney movie 'Frozen' is based on 'The Snow Queen' by Hans Christian Andersen.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Walt Disney's first animated feature film was 'Snow White and the Seven Dwarfs'.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "The character Buzz Lightyear in 'Toy Story' believes he is a real space ranger.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "In 'Beauty and the Beast', what does Belle's father do for a living?",
+    "questionType": "MultipleChoice",
+    "options": ["Inventor", "Baker", "Bookseller", "Artist"],
+    "correctAnswer": "Inventor",
+    "universe": "Disney",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Which Disney princess has red hair?",
+    "questionType": "MultipleChoice",
+    "options": ["Merida", "Elsa", "Rapunzel", "Tiana"],
+    "correctAnswer": "Merida",
+    "universe": "Disney",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "In 'The Little Mermaid', what is the name of the sea witch?",
+    "questionType": "MultipleChoice",
+    "options": ["Ursula", "Maleficent", "Cruella", "Gothel"],
+    "correctAnswer": "Ursula",
+    "universe": "Disney",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Which Infinity Stone was housed in the Tesseract?",
+    "questionType": "MultipleChoice",
+    "options": ["Space Stone", "Mind Stone", "Reality Stone", "Time Stone"],
+    "correctAnswer": "Space Stone",
+    "universe": "Marvel",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Black Panther is from the fictional African nation of Wakanda.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Natasha Romanoff is known as Black Widow.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Which of these is NOT one of the Infinity Stones?",
+    "questionType": "MultipleChoice",
+    "options": ["Ego Stone", "Soul Stone", "Power Stone", "Reality Stone"],
+    "correctAnswer": "Ego Stone",
+    "universe": "Marvel",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "In the Marvel universe, where is Captain America from?",
+    "questionType": "MultipleChoice",
+    "options": ["Brooklyn", "Queens", "Manhattan", "The Bronx"],
+    "correctAnswer": "Brooklyn",
+    "universe": "Marvel",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "What was the Winter Soldier's code name in Captain America: Civil War?",
+    "questionType": "MultipleChoice",
+    "options": ["James", "Bucky", "Zemo", "Longing"],
+    "correctAnswer": "James",
+    "universe": "Marvel",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "What species is Chewbacca?",
+    "questionType": "MultipleChoice",
+    "options": ["Wookiee", "Ewok", "Gungan", "Hutt"],
+    "correctAnswer": "Wookiee",
+    "universe": "StarWars",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "The Sith Lord Darth Sidious is also known as Emperor Palpatine.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "In Star Wars, the lightsabers used by the Sith typically have red blades.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "What is the name of Boba Fett's ship?",
+    "questionType": "MultipleChoice",
+    "options": ["Slave I", "Executor", "Millennium Falcon", "Ghost"],
+    "correctAnswer": "Slave I",
+    "universe": "StarWars",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "On which planet did Obi-Wan Kenobi and Darth Vader have their final duel?",
+    "questionType": "MultipleChoice",
+    "options": ["Mustafar", "Tatooine", "Death Star", "Hoth"],
+    "correctAnswer": "Mustafar",
+    "universe": "StarWars",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Which order initiated the mass execution of the Jedi?",
+    "questionType": "MultipleChoice",
+    "options": ["Order 66", "Order 99", "Order 77", "Order 55"],
+    "correctAnswer": "Order 66",
+    "universe": "StarWars",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "In 'Sleeping Beauty', Princess Aurora pricks her finger on a spinning wheel.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "In 'Peter Pan', Tinker Bell is a fairy.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Ariel from 'The Little Mermaid' has six sisters.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "What is the name of Simba's uncle in 'The Lion King'?",
+    "questionType": "MultipleChoice",
+    "options": ["Scar", "Mufasa", "Rafiki", "Timon"],
+    "correctAnswer": "Scar",
+    "universe": "Disney",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "In 'Aladdin', what is the name of Jasmine's pet tiger?",
+    "questionType": "MultipleChoice",
+    "options": ["Rajah", "Raja", "Bagheera", "Shere Khan"],
+    "correctAnswer": "Rajah",
+    "universe": "Disney",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Which Disney character says 'Just keep swimming'?",
+    "questionType": "MultipleChoice",
+    "options": ["Dory", "Nemo", "Marlin", "Crush"],
+    "correctAnswer": "Dory",
+    "universe": "Disney",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Loki is Thor's adopted brother.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Doctor Strange wears the Time Stone around his neck.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "In the Marvel universe, vibranium is primarily found in Wakanda.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Who was the first Avenger to meet the Guardians of the Galaxy?",
+    "questionType": "MultipleChoice",
+    "options": ["Thor", "Iron Man", "Captain America", "Hulk"],
+    "correctAnswer": "Thor",
+    "universe": "Marvel",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "What is the real name of the superhero Falcon?",
+    "questionType": "MultipleChoice",
+    "options": ["Sam Wilson", "James Rhodes", "Scott Lang", "Clint Barton"],
+    "correctAnswer": "Sam Wilson",
+    "universe": "Marvel",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Which of these characters was NOT a member of the Guardians of the Galaxy?",
+    "questionType": "MultipleChoice",
+    "options": ["Nebula", "Star-Lord", "Rocket", "Groot"],
+    "correctAnswer": "Nebula",
+    "universe": "Marvel",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "C-3PO is fluent in over six million forms of communication.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Midi-chlorians are microscopic life forms that allow their hosts to detect the Force.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Princess Leia's home planet was Alderaan.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "What is the name of the cantina in Mos Eisley where Luke and Obi-Wan meet Han Solo?",
+    "questionType": "MultipleChoice",
+    "options": ["Chalmun's Cantina", "Mos Eisley Bar", "Tatooine Tavern", "Wretched Hive"],
+    "correctAnswer": "Chalmun's Cantina",
+    "universe": "StarWars",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Which Jedi Master trained Count Dooku?",
+    "questionType": "MultipleChoice",
+    "options": ["Yoda", "Obi-Wan Kenobi", "Mace Windu", "Qui-Gon Jinn"],
+    "correctAnswer": "Yoda",
+    "universe": "StarWars",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "What was Luke Skywalker's job on Tatooine before joining the Rebellion?",
+    "questionType": "MultipleChoice",
+    "options": ["Moisture Farmer", "Junk Dealer", "Pilot", "Mechanic"],
+    "correctAnswer": "Moisture Farmer",
+    "universe": "StarWars",
+    "difficultyTier": 2
+  }
+]

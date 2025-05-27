@@ -1,0 +1,274 @@
+[
+  {
+    "questionText": "The song 'Let It Go' from Frozen was originally written for a villain.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "Disney's 'Tangled' cost more to make than 'Avatar'.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "Disney",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "The character of Ursula from 'The Little Mermaid' was inspired by the drag queen Divine.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "In which year did Disney's California Adventure open?",
+    "questionType": "MultipleChoice",
+    "options": ["2001", "1998", "2005", "1995"],
+    "correctAnswer": "2001",
+    "universe": "Disney",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "What was the name of Walt Disney's first animation studio before Disney?",
+    "questionType": "MultipleChoice",
+    "options": ["Laugh-O-Gram Studio", "Iwerks-Disney Commercial Artists", "Disney Brothers Cartoon Studio", "Walt Disney Productions"],
+    "correctAnswer": "Laugh-O-Gram Studio",
+    "universe": "Disney",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "Which voice actress has voiced the most Disney Princesses?",
+    "questionType": "MultipleChoice",
+    "options": ["Jennifer Hale", "Jodi Benson", "Linda Larkin", "Lea Salonga"],
+    "correctAnswer": "Jennifer Hale",
+    "universe": "Disney",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "In which year was the first Iron Man movie released, launching the Marvel Cinematic Universe?",
+    "questionType": "MultipleChoice",
+    "options": ["2008", "2010", "2005", "2012"],
+    "correctAnswer": "2008",
+    "universe": "Marvel",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "In the comics, Thanos is a Deviant mutation born to Eternals.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "The Incredible Hulk was originally colored grey, not green, in his first comic appearance.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "What is the real name of the Red Skull?",
+    "questionType": "MultipleChoice",
+    "options": ["Johann Schmidt", "Hans Gruber", "Viktor Reinhardt", "Klaus Zemo"],
+    "correctAnswer": "Johann Schmidt",
+    "universe": "Marvel",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "Who was the first character that Stan Lee created?",
+    "questionType": "MultipleChoice",
+    "options": ["The Destroyer", "Captain America", "Spider-Man", "Fantastic Four"],
+    "correctAnswer": "The Destroyer",
+    "universe": "Marvel",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "What is the chemical compound that gave Daredevil his powers?",
+    "questionType": "MultipleChoice",
+    "options": ["Radioactive isotope", "Gamma radiation", "Super soldier serum", "Terrigen Mist"],
+    "correctAnswer": "Radioactive isotope",
+    "universe": "Marvel",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "What is the name of the planet where Yoda went into exile?",
+    "questionType": "MultipleChoice",
+    "options": ["Dagobah", "Kashyyyk", "Hoth", "Endor"],
+    "correctAnswer": "Dagobah",
+    "universe": "StarWars",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "The dialogue of the character Yoda is grammatically structured as Object-Subject-Verb.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "The Star Wars character Wedge Antilles appears in all three original trilogy films.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "What is the name of the Wookiee home planet?",
+    "questionType": "MultipleChoice",
+    "options": ["Kashyyyk", "Endor", "Dagobah", "Yavin"],
+    "correctAnswer": "Kashyyyk",
+    "universe": "StarWars",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "What is the designation number of the stormtrooper who helps Poe Dameron escape in 'The Force Awakens'?",
+    "questionType": "MultipleChoice",
+    "options": ["FN-2187", "TK-421", "FN-1824", "CT-7567"],
+    "correctAnswer": "FN-2187",
+    "universe": "StarWars",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "Who was the original actor inside the Darth Vader suit?",
+    "questionType": "MultipleChoice",
+    "options": ["David Prowse", "James Earl Jones", "Sebastian Shaw", "Hayden Christensen"],
+    "correctAnswer": "David Prowse",
+    "universe": "StarWars",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "Walt Disney holds the record for the most Academy Award nominations.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "Disney",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "Hidden Mickeys are a common easter egg in Disney theme parks and films.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "The multiplane camera was invented by Ub Iwerks for Walt Disney Studios.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "What year did Tokyo DisneySea open?",
+    "questionType": "MultipleChoice",
+    "options": ["2001", "1995", "2005", "1998"],
+    "correctAnswer": "2001",
+    "universe": "Disney",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "Which Disney movie was the first to be nominated for the Academy Award for Best Picture?",
+    "questionType": "MultipleChoice",
+    "options": ["Beauty and the Beast", "Snow White and the Seven Dwarfs", "The Lion King", "Mary Poppins"],
+    "correctAnswer": "Beauty and the Beast",
+    "universe": "Disney",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "Who was the first Disney princess to have a star on the Hollywood Walk of Fame?",
+    "questionType": "MultipleChoice",
+    "options": ["Snow White", "Cinderella", "Aurora", "Ariel"],
+    "correctAnswer": "Snow White",
+    "universe": "Disney",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "The original Human Torch was an android, not a human.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "The Marvel character Deadpool was created as a parody of the DC Comics character Deathstroke.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "Before creating Marvel Comics, Stan Lee's real name was Stanley Martin Lieber.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "Which actor portrayed Thanos in the Marvel Cinematic Universe?",
+    "questionType": "MultipleChoice",
+    "options": ["Josh Brolin", "Ron Perlman", "Michael Clarke Duncan", "Keith David"],
+    "correctAnswer": "Josh Brolin",
+    "universe": "Marvel",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "What is the name of the metal from which Wolverine's claws are made?",
+    "questionType": "MultipleChoice",
+    "options": ["Adamantium", "Vibranium", "Uru", "Carbonadium"],
+    "correctAnswer": "Adamantium",
+    "universe": "Marvel",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "Who was the first Marvel character created by Stan Lee and Jack Kirby?",
+    "questionType": "MultipleChoice",
+    "options": ["Fantastic Four", "The Hulk", "Spider-Man", "Iron Man"],
+    "correctAnswer": "Fantastic Four",
+    "universe": "Marvel",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "The original draft of Star Wars had Darth Vader and Anakin Skywalker as separate characters.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "Admiral Ackbar's famous line 'It's a trap!' was not scripted but improvised.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "StarWars",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "The sound of the TIE Fighter engines was created by combining an elephant call with a car driving on wet pavement.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "What is the official Sith name of Count Dooku?",
+    "questionType": "MultipleChoice",
+    "options": ["Darth Tyranus", "Darth Sidious", "Darth Maul", "Darth Plagueis"],
+    "correctAnswer": "Darth Tyranus",
+    "universe": "StarWars",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "What species is Ahsoka Tano?",
+    "questionType": "MultipleChoice",
+    "options": ["Togruta", "Twi'lek", "Zabrak", "Mirialan"],
+    "correctAnswer": "Togruta",
+    "universe": "StarWars",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "What is the registration number of the Tantive IV, Princess Leia's diplomatic ship seen at the beginning of 'A New Hope'?",
+    "questionType": "MultipleChoice",
+    "options": ["CR90", "YT-1300", "T-65B", "RZ-1"],
+    "correctAnswer": "CR90",
+    "universe": "StarWars",
+    "difficultyTier": 5
+  }
+]

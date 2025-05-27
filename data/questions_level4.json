@@ -1,0 +1,274 @@
+[
+  {
+    "questionText": "The original voice of Mickey Mouse was Walt Disney himself.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Disney's 'The Black Cauldron' was a commercial success when it was released.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "Disney",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "The character of Tinker Bell was based on actress Marilyn Monroe.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "Disney",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Who composed the music for 'The Lion King'?",
+    "questionType": "MultipleChoice",
+    "options": ["Hans Zimmer and Elton John", "Alan Menken", "Randy Newman", "John Williams"],
+    "correctAnswer": "Hans Zimmer and Elton John",
+    "universe": "Disney",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "What was the first Disney movie to use CGI?",
+    "questionType": "MultipleChoice",
+    "options": ["The Black Cauldron", "The Great Mouse Detective", "Beauty and the Beast", "The Little Mermaid"],
+    "correctAnswer": "The Black Cauldron",
+    "universe": "Disney",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "What was Disneyland's opening date?",
+    "questionType": "MultipleChoice",
+    "options": ["July 17, 1955", "June 12, 1957", "October 1, 1971", "April 15, 1960"],
+    "correctAnswer": "July 17, 1955",
+    "universe": "Disney",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Which of these characters was NOT snapped away by Thanos in 'Avengers: Infinity War'?",
+    "questionType": "MultipleChoice",
+    "options": ["Rocket", "Black Panther", "Doctor Strange", "Spider-Man"],
+    "correctAnswer": "Rocket",
+    "universe": "Marvel",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "In the comics, Magneto is the father of Scarlet Witch and Quicksilver.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Before becoming Vision, J.A.R.V.I.S. was Tony Stark's AI assistant.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "What material is Wolverine's skeleton coated with?",
+    "questionType": "MultipleChoice",
+    "options": ["Adamantium", "Vibranium", "Uru", "Carbonadium"],
+    "correctAnswer": "Adamantium",
+    "universe": "Marvel",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "What is the name of the battle where the Ancient One died in Doctor Strange?",
+    "questionType": "MultipleChoice",
+    "options": ["Battle of New York", "Battle of Hong Kong", "Battle of London", "Battle of Kamar-Taj"],
+    "correctAnswer": "Battle of Hong Kong",
+    "universe": "Marvel",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "What is the name of Thor's mother?",
+    "questionType": "MultipleChoice",
+    "options": ["Frigga", "Hela", "Sif", "Amora"],
+    "correctAnswer": "Frigga",
+    "universe": "Marvel",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Who was the Jedi that first discovered Anakin Skywalker on Tatooine?",
+    "questionType": "MultipleChoice",
+    "options": ["Qui-Gon Jinn", "Obi-Wan Kenobi", "Mace Windu", "Yoda"],
+    "correctAnswer": "Qui-Gon Jinn",
+    "universe": "StarWars",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Anakin Skywalker built C-3PO as a child on Tatooine.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "The bounty hunter Jango Fett was the genetic template for the clone troopers.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "What is the name of the planet that houses the Jedi Temple?",
+    "questionType": "MultipleChoice",
+    "options": ["Coruscant", "Naboo", "Tatooine", "Mustafar"],
+    "correctAnswer": "Coruscant",
+    "universe": "StarWars",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Which of these is NOT a real lightsaber color in Star Wars canon?",
+    "questionType": "MultipleChoice",
+    "options": ["Orange", "Blue", "Green", "Purple"],
+    "correctAnswer": "Orange",
+    "universe": "StarWars",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "What species is Yoda?",
+    "questionType": "MultipleChoice",
+    "options": ["Unknown", "Lannik", "Geonosian", "Whiphid"],
+    "correctAnswer": "Unknown",
+    "universe": "StarWars",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Walt Disney's first cartoon character was Mickey Mouse.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "Disney",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "The Sherman Brothers wrote the song 'It's a Small World' for the 1964 New York World's Fair.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Disney's 'Fantasia' was released before 'Snow White and the Seven Dwarfs'.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "Disney",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "What was the first Disney animated film to be nominated for Best Picture at the Academy Awards?",
+    "questionType": "MultipleChoice",
+    "options": ["Beauty and the Beast", "The Lion King", "Snow White", "Up"],
+    "correctAnswer": "Beauty and the Beast",
+    "universe": "Disney",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Which Disney princess has a tattoo?",
+    "questionType": "MultipleChoice",
+    "options": ["Moana", "Mulan", "Pocahontas", "Tiana"],
+    "correctAnswer": "Moana",
+    "universe": "Disney",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Who voiced Woody in 'Toy Story'?",
+    "questionType": "MultipleChoice",
+    "options": ["Tom Hanks", "Tim Allen", "Billy Crystal", "John Goodman"],
+    "correctAnswer": "Tom Hanks",
+    "universe": "Disney",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "In the Marvel Comics, Captain America's shield has been broken.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "The comic book character Deadpool was originally created as a parody of DC's Deathstroke.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "The original Guardians of the Galaxy team from the comics does not include any members from the MCU movies.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Which of these is NOT one of the Infinity Stones?",
+    "questionType": "MultipleChoice",
+    "options": ["Ego Stone", "Soul Stone", "Power Stone", "Mind Stone"],
+    "correctAnswer": "Ego Stone",
+    "universe": "Marvel",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Who was the villain in the movie 'Captain America: The Winter Soldier'?",
+    "questionType": "MultipleChoice",
+    "options": ["Alexander Pierce", "Arnim Zola", "Baron Zemo", "Red Skull"],
+    "correctAnswer": "Alexander Pierce",
+    "universe": "Marvel",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "What mental disorder does Moon Knight suffer from?",
+    "questionType": "MultipleChoice",
+    "options": ["Dissociative Identity Disorder", "Bipolar Disorder", "Schizophrenia", "Post-Traumatic Stress Disorder"],
+    "correctAnswer": "Dissociative Identity Disorder",
+    "universe": "Marvel",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "In Star Wars, the Kaminoans are known for creating the clone army.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Mace Windu's lightsaber is purple because Samuel L. Jackson specifically requested that color.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "The Star Wars Holiday Special from 1978 was the first appearance of Boba Fett.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "What is the name of the Mandalorian's ship in the Disney+ series?",
+    "questionType": "MultipleChoice",
+    "options": ["Razor Crest", "Slave I", "Ghost", "Millennium Falcon"],
+    "correctAnswer": "Razor Crest",
+    "universe": "StarWars",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Which Star Wars character says 'Hello there' as their iconic greeting?",
+    "questionType": "MultipleChoice",
+    "options": ["Obi-Wan Kenobi", "Han Solo", "Luke Skywalker", "Lando Calrissian"],
+    "correctAnswer": "Obi-Wan Kenobi",
+    "universe": "StarWars",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "What was Darth Vader's birth name?",
+    "questionType": "MultipleChoice",
+    "options": ["Anakin Skywalker", "Luke Skywalker", "Ben Solo", "Sheev Palpatine"],
+    "correctAnswer": "Anakin Skywalker",
+    "universe": "StarWars",
+    "difficultyTier": 4
+  }
+]

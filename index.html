@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Magical Trivia Quest - A magical trivia game featuring Disney, Marvel, and Star Wars universes">
+    <meta name="theme-color" content="#4b6de8">
+    <title>Magical Trivia Quest</title>
+    <link rel="stylesheet" href="./css/styles.css">
+    <link rel="manifest" href="./manifest.json">
+    <link rel="icon" href="./assets/icons/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" href="./assets/icons/icon-192x192.png">
+</head>
+<body>
+    <div id="app">
+        <!-- Start Screen -->
+        <div id="start-screen" class="screen active">
+            <h1>Magical Trivia Quest</h1>
+            <p>Test your knowledge of Disney, Marvel, and Star Wars universes!</p>
+            <div class="button-container">
+                <button id="start-game" class="btn primary-btn">Start Game</button>
+                <button id="skill-tree-btn" class="btn secondary-btn">Skill Tree</button>
+                <button id="settings-btn" class="btn secondary-btn">Settings</button>
+            </div>
+            <div class="pwa-install-prompt" id="pwa-install-prompt">
+                <p>Add this app to your home screen for the best experience!</p>
+                <button id="install-btn" class="btn">Install App</button>
+            </div>
+        </div>
+
+        <!-- Gameplay Screen -->
+        <div id="gameplay-screen" class="screen">
+            <div class="game-header">
+                <div class="lives-container">
+                    <span>Lives:</span>
+                    <div id="lives-display"></div>
+                </div>
+                <div class="score-container">
+                    <span>Score: </span><span id="score-display">0</span>
+                </div>
+                <button id="pause-btn" class="btn icon-btn">⏸️</button>
+            </div>
+            
+            <div class="universe-indicator" id="universe-indicator"></div>
+            
+            <div class="question-container">
+                <p id="question-text"></p>
+                <div id="answers-container"></div>
+            </div>
+            
+            <div class="active-skills-container" id="active-skills-container"></div>
+        </div>
+
+        <!-- Pause Screen -->
+        <div id="pause-screen" class="screen">
+            <h2>Game Paused</h2>
+            <div class="button-container">
+                <button id="resume-btn" class="btn primary-btn">Resume Game</button>
+                <button id="restart-run-btn" class="btn secondary-btn">Restart Run</button>
+                <button id="main-menu-btn" class="btn secondary-btn">Main Menu</button>
+            </div>
+        </div>
+
+        <!-- Game Over Screen -->
+        <div id="game-over-screen" class="screen">
+            <h2>Game Over</h2>
+            <div class="results-container">
+                <p>Questions Answered: <span id="questions-answered">0</span></p>
+                <p>XP Earned: <span id="xp-earned">0</span></p>
+            </div>
+            <div class="button-container">
+                <button id="go-skill-tree-btn" class="btn primary-btn">Visit Skill Tree</button>
+                <button id="restart-game-btn" class="btn secondary-btn">Restart Game</button>
+            </div>
+        </div>
+
+        <!-- Skill Tree Screen -->
+        <div id="skill-tree-screen" class="screen">
+            <h2>Skill Tree</h2>
+            <div class="xp-display">
+                <p>Available XP: <span id="available-xp">0</span></p>
+            </div>
+            <div class="skill-tree-container">
+                <div class="skill-branch" id="branch-1">
+                    <h3>Survivalist</h3>
+                    <div class="skill-nodes"></div>
+                </div>
+                <div class="skill-branch" id="branch-2">
+                    <h3>Scholar's Intuition</h3>
+                    <div class="skill-nodes"></div>
+                </div>
+                <div class="skill-branch" id="branch-3">
+                    <h3>XP Magnifier</h3>
+                    <div class="skill-nodes"></div>
+                </div>
+            </div>
+            <div class="skill-info-panel" id="skill-info-panel"></div>
+            <button id="back-from-skill-btn" class="btn secondary-btn">Back</button>
+        </div>
+
+        <!-- Settings Screen -->
+        <div id="settings-screen" class="screen">
+            <h2>Settings</h2>
+            <div class="settings-container">
+                <div class="setting-option">
+                    <label for="sound-toggle">Sound Effects</label>
+                    <input type="checkbox" id="sound-toggle" checked>
+                </div>
+                <div class="setting-option">
+                    <label for="music-toggle">Background Music</label>
+                    <input type="checkbox" id="music-toggle" checked>
+                </div>
+                <div class="setting-option">
+                    <label for="theme-select">Theme</label>
+                    <select id="theme-select">
+                        <option value="light">Light</option>
+                        <option value="dark">Dark</option>
+                    </select>
+                </div>
+            </div>
+            <div class="button-container">
+                <button id="reset-progress-btn" class="btn danger-btn">Reset All Progress</button>
+                <button id="back-from-settings-btn" class="btn secondary-btn">Back</button>
+            </div>
+            <div class="legal-info">
+                <p>This application is not affiliated with, endorsed by, or connected to The Walt Disney Company, Marvel Entertainment, Lucasfilm Ltd., or any of their subsidiaries or affiliates.</p>
+                <p>Version 2.0 (GitHub Pages Edition)</p>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/app.js" type="module"></script>
+    <script>
+        // Register service worker
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('service-worker.js')
+                    .then(registration => {
+                        console.log('Service Worker registered successfully:', registration);
+                    })
+                    .catch(error => {
+                        console.log('Service Worker registration failed:', error);
+                    });
+            });
+        }
+    </script>
+</body>
+</html>

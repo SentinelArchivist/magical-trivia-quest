@@ -1,0 +1,274 @@
+[
+  {
+    "questionText": "Walt Disney World Resort in Florida opened in 1971.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "The original voice of Mickey Mouse was Walt Disney himself.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "The 'Pirates of the Caribbean' movie franchise was inspired by a Disney theme park ride.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "What was the first Pixar film?",
+    "questionType": "MultipleChoice",
+    "options": ["Toy Story", "A Bug's Life", "Monsters, Inc.", "Finding Nemo"],
+    "correctAnswer": "Toy Story",
+    "universe": "Disney",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "In 'The Nightmare Before Christmas', what is the name of the mayor of Halloween Town?",
+    "questionType": "MultipleChoice",
+    "options": ["Mayor", "Jack Skellington", "Oogie Boogie", "Dr. Finkelstein"],
+    "correctAnswer": "Mayor",
+    "universe": "Disney",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Which Disney character says 'Hakuna Matata'?",
+    "questionType": "MultipleChoice",
+    "options": ["Timon and Pumbaa", "Simba", "Rafiki", "Zazu"],
+    "correctAnswer": "Timon and Pumbaa",
+    "universe": "Disney",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "What is the name of Thor's hammer?",
+    "questionType": "MultipleChoice",
+    "options": ["Mjolnir", "Stormbreaker", "Gungnir", "Hofund"],
+    "correctAnswer": "Mjolnir",
+    "universe": "Marvel",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "In the Marvel comics, the superhero team 'The Fantastic Four' gained their powers from cosmic radiation.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Dr. Stephen Strange was a neurosurgeon before becoming a master of the mystic arts.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Which actress plays Black Widow in the Marvel Cinematic Universe?",
+    "questionType": "MultipleChoice",
+    "options": ["Scarlett Johansson", "Elizabeth Olsen", "Brie Larson", "Zoe Saldana"],
+    "correctAnswer": "Scarlett Johansson",
+    "universe": "Marvel",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "What is the real name of the superhero Hawkeye?",
+    "questionType": "MultipleChoice",
+    "options": ["Clint Barton", "Scott Lang", "Sam Wilson", "Bucky Barnes"],
+    "correctAnswer": "Clint Barton",
+    "universe": "Marvel",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Which of these characters did NOT appear in 'Captain America: Civil War'?",
+    "questionType": "MultipleChoice",
+    "options": ["Captain Marvel", "Spider-Man", "Ant-Man", "Black Panther"],
+    "correctAnswer": "Captain Marvel",
+    "universe": "Marvel",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Which planet was destroyed by the Death Star in 'Star Wars: A New Hope'?",
+    "questionType": "MultipleChoice",
+    "options": ["Alderaan", "Tatooine", "Naboo", "Coruscant"],
+    "correctAnswer": "Alderaan",
+    "universe": "StarWars",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Obi-Wan Kenobi lived as a hermit on Tatooine going by the name 'Ben'.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "In 'Star Wars: The Empire Strikes Back', Lando Calrissian is the administrator of Cloud City on the planet Bespin.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Who was the Jedi that first discovered Anakin Skywalker on Tatooine?",
+    "questionType": "MultipleChoice",
+    "options": ["Qui-Gon Jinn", "Obi-Wan Kenobi", "Mace Windu", "Yoda"],
+    "correctAnswer": "Qui-Gon Jinn",
+    "universe": "StarWars",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "What is the name of Han Solo's co-pilot?",
+    "questionType": "MultipleChoice",
+    "options": ["Chewbacca", "Lando Calrissian", "R2-D2", "Admiral Ackbar"],
+    "correctAnswer": "Chewbacca",
+    "universe": "StarWars",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Which Star Wars character says 'It's a trap!'?",
+    "questionType": "MultipleChoice",
+    "options": ["Admiral Ackbar", "Princess Leia", "Han Solo", "Luke Skywalker"],
+    "correctAnswer": "Admiral Ackbar",
+    "universe": "StarWars",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Disney's 'Pocahontas' is historically accurate.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "Disney",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "The song 'A Whole New World' is from the Disney movie 'Aladdin'.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Snow White was Disney's first princess.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "What are the names of Cinderella's stepsisters?",
+    "questionType": "MultipleChoice",
+    "options": ["Anastasia and Drizella", "Flora and Fauna", "Anastasia and Drusilla", "Griselda and Matilda"],
+    "correctAnswer": "Anastasia and Drizella",
+    "universe": "Disney",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "What does 'Hakuna Matata' mean?",
+    "questionType": "MultipleChoice",
+    "options": ["No worries", "Best friends", "Circle of life", "Great power"],
+    "correctAnswer": "No worries",
+    "universe": "Disney",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Which Disney park opened first?",
+    "questionType": "MultipleChoice",
+    "options": ["Disneyland", "Walt Disney World", "Tokyo Disneyland", "Disneyland Paris"],
+    "correctAnswer": "Disneyland",
+    "universe": "Disney",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "The first MCU movie was 'Iron Man'.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "In the comics, Thanos wiped out half the universe to impress Death, who he was in love with.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Spider-Man's spider sense alerts him to danger.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "What is the name of the fictional metal that makes up Captain America's shield?",
+    "questionType": "MultipleChoice",
+    "options": ["Vibranium", "Adamantium", "Uru", "Promethium"],
+    "correctAnswer": "Vibranium",
+    "universe": "Marvel",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "In the Marvel comics, who was the original founder of the Avengers?",
+    "questionType": "MultipleChoice",
+    "options": ["Nick Fury", "Tony Stark", "Steve Rogers", "Bruce Banner"],
+    "correctAnswer": "Nick Fury",
+    "universe": "Marvel",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "What is the name of Thor's mother?",
+    "questionType": "MultipleChoice",
+    "options": ["Frigga", "Hela", "Sif", "Amora"],
+    "correctAnswer": "Frigga",
+    "universe": "Marvel",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "The planet Tatooine has two suns.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "The Mandalorian's real name is Din Djarin.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Lightsabers are powered by kyber crystals.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Who built C-3PO?",
+    "questionType": "MultipleChoice",
+    "options": ["Anakin Skywalker", "Luke Skywalker", "Owen Lars", "Obi-Wan Kenobi"],
+    "correctAnswer": "Anakin Skywalker",
+    "universe": "StarWars",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "What is the highest rank in the Jedi Order?",
+    "questionType": "MultipleChoice",
+    "options": ["Jedi Master", "Jedi Knight", "Padawan", "Jedi Youngling"],
+    "correctAnswer": "Jedi Master",
+    "universe": "StarWars",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Who played Princess Leia in the original Star Wars trilogy?",
+    "questionType": "MultipleChoice",
+    "options": ["Carrie Fisher", "Natalie Portman", "Daisy Ridley", "Felicity Jones"],
+    "correctAnswer": "Carrie Fisher",
+    "universe": "StarWars",
+    "difficultyTier": 3
+  }
+]

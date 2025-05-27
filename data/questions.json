@@ -1,0 +1,240 @@
+[
+  {
+    "questionText": "Mickey Mouse's first appearance was in the 1928 short film 'Steamboat Willie'.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "The original voice of Mickey Mouse was Walt Disney himself.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Walt Disney's first animated feature film was 'Snow White and the Seven Dwarfs'.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Cinderella's slippers were originally made of glass in the Disney film.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Disneyland opened in 1965.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "Disney",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "The song 'Let It Go' from Frozen was originally written for a villain.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "What is the name of Tony Stark's AI assistant in the Iron Man films?",
+    "questionType": "MultipleChoice",
+    "options": ["JARVIS", "ALFRED", "FRIDAY", "ULTRON"],
+    "correctAnswer": "JARVIS",
+    "universe": "Marvel",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Which Infinity Stone was housed in the Tesseract?",
+    "questionType": "MultipleChoice",
+    "options": ["Mind Stone", "Space Stone", "Reality Stone", "Time Stone"],
+    "correctAnswer": "Space Stone",
+    "universe": "Marvel",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "What is the name of Thor's hammer?",
+    "questionType": "MultipleChoice",
+    "options": ["Mjolnir", "Stormbreaker", "Gungnir", "Hofund"],
+    "correctAnswer": "Mjolnir",
+    "universe": "Marvel",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Which of these characters was NOT snapped away by Thanos in 'Avengers: Infinity War'?",
+    "questionType": "MultipleChoice",
+    "options": ["Black Panther", "Doctor Strange", "Rocket", "Spider-Man"],
+    "correctAnswer": "Rocket",
+    "universe": "Marvel",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "The original comic book Avengers team included:",
+    "questionType": "MultipleChoice",
+    "options": ["Spider-Man", "Black Panther", "Ant-Man", "Black Widow"],
+    "correctAnswer": "Ant-Man",
+    "universe": "Marvel",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "In which year was the first Iron Man movie released, launching the Marvel Cinematic Universe?",
+    "questionType": "MultipleChoice",
+    "options": ["2005", "2008", "2010", "2012"],
+    "correctAnswer": "2008",
+    "universe": "Marvel",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Who is Luke Skywalker's father?",
+    "questionType": "MultipleChoice",
+    "options": ["Obi-Wan Kenobi", "Darth Vader", "Emperor Palpatine", "Yoda"],
+    "correctAnswer": "Darth Vader",
+    "universe": "StarWars",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "What species is Chewbacca?",
+    "questionType": "MultipleChoice",
+    "options": ["Wookiee", "Ewok", "Gungan", "Twi'lek"],
+    "correctAnswer": "Wookiee",
+    "universe": "StarWars",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Which planet was destroyed by the Death Star in 'Star Wars: A New Hope'?",
+    "questionType": "MultipleChoice",
+    "options": ["Tatooine", "Alderaan", "Naboo", "Hoth"],
+    "correctAnswer": "Alderaan",
+    "universe": "StarWars",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Who was the Jedi that first discovered Anakin Skywalker on Tatooine?",
+    "questionType": "MultipleChoice",
+    "options": ["Obi-Wan Kenobi", "Qui-Gon Jinn", "Mace Windu", "Yoda"],
+    "correctAnswer": "Qui-Gon Jinn",
+    "universe": "StarWars",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "What color is Mace Windu's lightsaber?",
+    "questionType": "MultipleChoice",
+    "options": ["Blue", "Green", "Red", "Purple"],
+    "correctAnswer": "Purple",
+    "universe": "StarWars",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "What is the name of the planet where Yoda went into exile?",
+    "questionType": "MultipleChoice",
+    "options": ["Dagobah", "Mustafar", "Kashyyyk", "Coruscant"],
+    "correctAnswer": "Dagobah",
+    "universe": "StarWars",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Disney's 'Beauty and the Beast' was the first animated film to be nominated for Best Picture at the Academy Awards.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "The character of Ariel in 'The Little Mermaid' was partially based on Alyssa Milano.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "Which Disney princess has a tattoo?",
+    "questionType": "MultipleChoice",
+    "options": ["Ariel", "Moana", "Pocahontas", "Mulan"],
+    "correctAnswer": "Pocahontas",
+    "universe": "Disney",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "How many official Disney princesses are there as of 2023?",
+    "questionType": "MultipleChoice",
+    "options": ["8", "10", "12", "14"],
+    "correctAnswer": "12",
+    "universe": "Disney",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Doctor Strange's original occupation before becoming a sorcerer was:",
+    "questionType": "MultipleChoice",
+    "options": ["Neurosurgeon", "Cardiologist", "Psychiatrist", "Oncologist"],
+    "correctAnswer": "Neurosurgeon",
+    "universe": "Marvel",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "The Winter Soldier's real name is:",
+    "questionType": "MultipleChoice",
+    "options": ["Steve Rogers", "Sam Wilson", "Bucky Barnes", "Clint Barton"],
+    "correctAnswer": "Bucky Barnes",
+    "universe": "Marvel",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Wakanda's primary resource is:",
+    "questionType": "MultipleChoice",
+    "options": ["Uranium", "Vibranium", "Adamantium", "Uru"],
+    "correctAnswer": "Vibranium",
+    "universe": "Marvel",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Before becoming Vision, Tony Stark's AI assistant was known as:",
+    "questionType": "MultipleChoice",
+    "options": ["FRIDAY", "JARVIS", "EDITH", "ULTRON"],
+    "correctAnswer": "JARVIS",
+    "universe": "Marvel",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "The 'Jedi Code' forbids Jedi from forming romantic attachments.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Padmé Amidala was a senator from the planet:",
+    "questionType": "MultipleChoice",
+    "options": ["Coruscant", "Naboo", "Tatooine", "Alderaan"],
+    "correctAnswer": "Naboo",
+    "universe": "StarWars",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Which Star Wars character says the famous line: 'It's a trap!'?",
+    "questionType": "MultipleChoice",
+    "options": ["Han Solo", "Luke Skywalker", "Admiral Ackbar", "Lando Calrissian"],
+    "correctAnswer": "Admiral Ackbar",
+    "universe": "StarWars",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "The original Star Wars trilogy consists of how many films?",
+    "questionType": "MultipleChoice",
+    "options": ["2", "3", "4", "6"],
+    "correctAnswer": "3",
+    "universe": "StarWars",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "The Mandalorian's real name is Din Djarin.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 4
+  }
+]
