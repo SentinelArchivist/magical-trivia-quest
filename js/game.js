@@ -457,8 +457,21 @@ function activateSkill(skillId) {
 
 // Get hint for a question (for Category Insight skill)
 function getHintForQuestion(question) {
-    // This would be more sophisticated in a real implementation
-    return question.universe + ' lore';
+    // More sophisticated hints based on universe
+    switch(question.universe) {
+        case 'Disney':
+            return 'Disney animation and characters';
+        case 'Marvel':
+            return 'Marvel superheroes and villains';
+        case 'StarWars':
+            return 'Star Wars galaxy and characters';
+        case 'Pixar':
+            return 'Pixar animated films and characters';
+        case 'Zelda':
+            return 'Legend of Zelda games and lore';
+        default:
+            return question.universe + ' lore';
+    }
 }
 
 // Pause the game

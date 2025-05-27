@@ -3,24 +3,34 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Magical Trivia Quest - A magical trivia game featuring Disney, Marvel, and Star Wars universes">
+    <meta name="description" content="Magical Trivia Quest - A magical trivia game featuring Disney, Pixar, Marvel, Star Wars, and Zelda universes">
     <meta name="theme-color" content="#4b6de8">
     <title>Magical Trivia Quest</title>
     <link rel="stylesheet" href="./css/styles.css">
+    <link rel="stylesheet" href="./css/disney-theme.css">
     <link rel="manifest" href="./manifest.json">
     <link rel="icon" href="./assets/icons/favicon.ico" type="image/x-icon">
     <link rel="apple-touch-icon" href="./assets/icons/icon-192x192.png">
 </head>
-<body>
-    <div id="app">
+<body class="mickey-cursor">
+    <!-- Magical sparkle elements -->
+    <div class="sparkle"></div>
+    <div class="sparkle"></div>
+    <div class="sparkle"></div>
+    <div class="sparkle"></div>
+    <div class="sparkle"></div>
+    
+    <div id="app" class="magical-app">
         <!-- Start Screen -->
         <div id="start-screen" class="screen active">
-            <h1>Magical Trivia Quest</h1>
-            <p>Test your knowledge of Disney, Marvel, and Star Wars universes!</p>
+            <div class="disney-castle">
+                <h1 class="disney-font mickey-ears">Magical Trivia Quest</h1>
+            </div>
+            <p>Test your knowledge of Disney, Pixar, Marvel, Star Wars, and Zelda universes!</p>
             <div class="button-container">
-                <button id="start-game" class="btn primary-btn">Start Game</button>
-                <button id="skill-tree-btn" class="btn secondary-btn">Skill Tree</button>
-                <button id="settings-btn" class="btn secondary-btn">Settings</button>
+                <button id="start-game" class="btn primary-btn magical-border"><span class="wizard-hat"></span>Start Game</button>
+                <button id="skill-tree-btn" class="btn secondary-btn magical-border"><span class="wizard-hat"></span>Skill Tree</button>
+                <button id="settings-btn" class="btn secondary-btn magical-border"><span class="wizard-hat"></span>Settings</button>
             </div>
             <div class="pwa-install-prompt" id="pwa-install-prompt">
                 <p>Add this app to your home screen for the best experience!</p>
@@ -130,6 +140,7 @@
     </div>
 
     <script src="js/app.js" type="module"></script>
+    <script src="js/disney-effects.js"></script>
     <script>
         // Register service worker
         if ('serviceWorker' in navigator) {

@@ -8,7 +8,9 @@ const QUESTION_FILES = [
     'data/questions_level2.json',     // Level 2 questions
     'data/questions_level3.json',     // Level 3 questions
     'data/questions_level4.json',     // Level 4 questions
-    'data/questions_level5.json'      // Level 5 questions
+    'data/questions_level5.json',     // Level 5 questions
+    'data/pixar_questions.json',      // Pixar questions
+    'data/zelda_questions.json'       // Zelda questions
 ];
 
 // Load questions from all JSON files

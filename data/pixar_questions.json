@@ -1,0 +1,377 @@
+[
+  {
+    "questionText": "The first feature film released by Pixar was 'Toy Story'.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "In 'Finding Nemo', what is the name of Nemo's father?",
+    "questionType": "MultipleChoice",
+    "options": ["Marlin", "Gill", "Bubbles", "Bruce"],
+    "correctAnswer": "Marlin",
+    "universe": "Pixar",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "In 'Monsters, Inc.', Sully's full name is James P. Sullivan.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "What is the name of the robot in 'WALL-E'?",
+    "questionType": "MultipleChoice",
+    "options": ["WALL-E", "EVE", "AUTO", "M-O"],
+    "correctAnswer": "WALL-E",
+    "universe": "Pixar",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "In 'Up', Carl ties thousands of balloons to his house to travel to Paradise Falls.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "What is the name of the chef rat in 'Ratatouille'?",
+    "questionType": "MultipleChoice",
+    "options": ["Remy", "Emile", "Django", "Gusteau"],
+    "correctAnswer": "Remy",
+    "universe": "Pixar",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "In 'Cars', Lightning McQueen is number 95.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "What is the name of the Scottish princess in 'Brave'?",
+    "questionType": "MultipleChoice",
+    "options": ["Merida", "Elinor", "Fiona", "Moana"],
+    "correctAnswer": "Merida",
+    "universe": "Pixar",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "In 'The Incredibles', Elastigirl's first name is Helen.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "What color is Joy's hair in 'Inside Out'?",
+    "questionType": "MultipleChoice",
+    "options": ["Blue", "Yellow", "Pink", "Green"],
+    "correctAnswer": "Blue",
+    "universe": "Pixar",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Pixar's mascot is a desk lamp named Luxo Jr.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Which Pixar film features a cooking critic named Anton Ego?",
+    "questionType": "MultipleChoice",
+    "options": ["Ratatouille", "The Incredibles", "Up", "Soul"],
+    "correctAnswer": "Ratatouille",
+    "universe": "Pixar",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "In 'Toy Story', Buzz Lightyear's catchphrase is 'To infinity and beyond!'",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Which of these is NOT a Pixar film?",
+    "questionType": "MultipleChoice",
+    "options": ["Tangled", "Inside Out", "Coco", "Onward"],
+    "correctAnswer": "Tangled",
+    "universe": "Pixar",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "In 'Finding Dory', Dory suffers from short-term memory loss.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "What type of animal is Remy from 'Ratatouille'?",
+    "questionType": "MultipleChoice",
+    "options": ["Rat", "Mouse", "Hamster", "Guinea Pig"],
+    "correctAnswer": "Rat",
+    "universe": "Pixar",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "The villain in 'The Incredibles' is called Syndrome.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "In 'Monsters University', what is the name of the fraternity Mike and Sulley join?",
+    "questionType": "MultipleChoice",
+    "options": ["Oozma Kappa", "Roar Omega Roar", "Python Nu Kappa", "Jaws Theta Chi"],
+    "correctAnswer": "Oozma Kappa",
+    "universe": "Pixar",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "In 'Coco', the main character's name is Miguel.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Which character says 'Just keep swimming' in 'Finding Nemo'?",
+    "questionType": "MultipleChoice",
+    "options": ["Dory", "Nemo", "Marlin", "Crush"],
+    "correctAnswer": "Dory",
+    "universe": "Pixar",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "The Pizza Planet truck appears in every Pixar film except 'The Incredibles'.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "Pixar",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "What is the name of the tropical city where 'Luca' takes place?",
+    "questionType": "MultipleChoice",
+    "options": ["Portorosso", "Portofino", "Positano", "Palermo"],
+    "correctAnswer": "Portorosso",
+    "universe": "Pixar",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "The character Boo in 'Monsters, Inc.' is actually named Mary.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "In 'Soul', what instrument does Joe Gardner play?",
+    "questionType": "MultipleChoice",
+    "options": ["Piano", "Saxophone", "Trumpet", "Drums"],
+    "correctAnswer": "Piano",
+    "universe": "Pixar",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "A113 is an Easter egg that appears in every Pixar film.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "What phobia does Darla from 'Finding Nemo' cause in fish?",
+    "questionType": "MultipleChoice",
+    "options": ["Darla-phobia", "Human-o-phobia", "Fish-o-phobia", "Claustrophobia"],
+    "correctAnswer": "Darla-phobia",
+    "universe": "Pixar",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "In 'Cars', Radiator Springs is located on Route 66.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Which Pixar movie features a character named Linguini?",
+    "questionType": "MultipleChoice",
+    "options": ["Ratatouille", "Soul", "Luca", "The Incredibles"],
+    "correctAnswer": "Ratatouille",
+    "universe": "Pixar",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "The character Carl Fredricksen in 'Up' is voiced by Ed Asner.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "What is the name of the fictional Scottish clan in 'Brave'?",
+    "questionType": "MultipleChoice",
+    "options": ["DunBroch", "MacGuffin", "Dingwall", "Macintosh"],
+    "correctAnswer": "DunBroch",
+    "universe": "Pixar",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "The voice of WALL-E is actually a combination of sounds made by Ben Burtt.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "What was the first Pixar short film?",
+    "questionType": "MultipleChoice",
+    "options": ["The Adventures of André and Wally B.", "Luxo Jr.", "Red's Dream", "Tin Toy"],
+    "correctAnswer": "The Adventures of André and Wally B.",
+    "universe": "Pixar",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "In 'Inside Out', Bing Bong is Riley's imaginary friend who is part elephant, part cat, and part dolphin.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "Pixar",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "What is the name of the trash compactor robot that WALL-E befriends on the Axiom?",
+    "questionType": "MultipleChoice",
+    "options": ["M-O", "AUTO", "GO-4", "BRL-A"],
+    "correctAnswer": "M-O",
+    "universe": "Pixar",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "In 'Toy Story 2', Woody discovers he is a rare collectible from a 1950s TV show called 'Woody's Roundup'.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "What is the name of the fictional company that manufactures toys in the 'Toy Story' universe?",
+    "questionType": "MultipleChoice",
+    "options": ["Tri-County Toys", "Andy's Toys", "Playtime Toys", "Toy Barn"],
+    "correctAnswer": "Tri-County Toys",
+    "universe": "Pixar",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "The character Flint in 'Monsters University' has five eyes.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "Pixar",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "What is the name of the supercomputer that calculates the emotions in 'Inside Out'?",
+    "questionType": "MultipleChoice",
+    "options": ["Headquarters", "Cerebrum", "Mind Palace", "Cortex"],
+    "correctAnswer": "Headquarters",
+    "universe": "Pixar",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "In 'Coco', the condition for returning to the Land of the Living is that someone in the living world must remember you.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Which character does John Ratzenberger voice in 'A Bug's Life'?",
+    "questionType": "MultipleChoice",
+    "options": ["P.T. Flea", "Heimlich", "Francis", "Molt"],
+    "correctAnswer": "P.T. Flea",
+    "universe": "Pixar",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "The original title for 'Inside Out' was 'The Emotions'.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "Pixar",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "What was the first Pixar film to win the Academy Award for Best Animated Feature?",
+    "questionType": "MultipleChoice",
+    "options": ["Finding Nemo", "The Incredibles", "Ratatouille", "WALL-E"],
+    "correctAnswer": "Finding Nemo",
+    "universe": "Pixar",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "In 'Onward', the spell to bring back the father required a Phoenix Gem.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "What is the name of the 'brain trust' Pixar formed for creative decision-making?",
+    "questionType": "MultipleChoice",
+    "options": ["Story Trust", "Creative Circle", "Imagination Group", "Animation Council"],
+    "correctAnswer": "Story Trust",
+    "universe": "Pixar",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "The character 'BnL' appears in both 'WALL-E' and 'Toy Story 3'.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "Which of these was NOT one of the original emotions considered for 'Inside Out'?",
+    "questionType": "MultipleChoice",
+    "options": ["Surprise", "Anger", "Disgust", "Fear"],
+    "correctAnswer": "Surprise",
+    "universe": "Pixar",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "The code 'LZTYBRN' in 'Toy Story 2' is a reference to Pixar's address.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "Pixar",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "Who voices the character Duke Caboom in 'Toy Story 4'?",
+    "questionType": "MultipleChoice",
+    "options": ["Keanu Reeves", "Ryan Reynolds", "Jim Carrey", "Chris Evans"],
+    "correctAnswer": "Keanu Reeves",
+    "universe": "Pixar",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "In 'Soul', the characters 'Jerry' are voiced by the same actress.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "Pixar",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "What was Pixar's original name when it was part of Lucasfilm?",
+    "questionType": "MultipleChoice",
+    "options": ["The Graphics Group", "Computer Graphics Lab", "Digital Animation Studios", "Lucas Digital Arts"],
+    "correctAnswer": "The Graphics Group",
+    "universe": "Pixar",
+    "difficultyTier": 5
+  }
+]

@@ -1,7 +1,7 @@
 {
   "name": "Magical Trivia Quest",
-  "short_name": "Magical Trivia",
-  "description": "A magical trivia game featuring Disney, Marvel, and Star Wars universes",
+  "short_name": "Trivia Quest",
+  "description": "A magical trivia game featuring Disney, Pixar, Marvel, Star Wars, and Zelda universes",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#f5f5f5",

@@ -1,0 +1,377 @@
+[
+  {
+    "questionText": "In 'Breath of the Wild', Link awakens from a 100-year slumber.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "What is the name of Link's horse in 'Breath of the Wild'?",
+    "questionType": "MultipleChoice",
+    "options": ["Epona", "You name it yourself", "Ganon", "Zelda"],
+    "correctAnswer": "You name it yourself",
+    "universe": "Zelda",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "The main antagonist in 'Breath of the Wild' is Calamity Ganon.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "In 'Tears of the Kingdom', what new ability allows Link to travel through solid surfaces?",
+    "questionType": "MultipleChoice",
+    "options": ["Ascend", "Recall", "Fuse", "Ultrahand"],
+    "correctAnswer": "Ascend",
+    "universe": "Zelda",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "In 'Breath of the Wild', the Master Sword can run out of energy and become temporarily unusable.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "How many Divine Beasts are there in 'Breath of the Wild'?",
+    "questionType": "MultipleChoice",
+    "options": ["4", "5", "6", "3"],
+    "correctAnswer": "4",
+    "universe": "Zelda",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "In 'Tears of the Kingdom', Link can create vehicles using the Ultrahand ability.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "What is the name of the floating islands in 'Tears of the Kingdom'?",
+    "questionType": "MultipleChoice",
+    "options": ["Sky Islands", "Skyloft", "Sky Realm", "Cloud Kingdom"],
+    "correctAnswer": "Sky Islands",
+    "universe": "Zelda",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "In 'Breath of the Wild', weapons break after extended use.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "What is the name of the protagonist in the Legend of Zelda series?",
+    "questionType": "MultipleChoice",
+    "options": ["Link", "Zelda", "Ganon", "Sidon"],
+    "correctAnswer": "Link",
+    "universe": "Zelda",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "In 'Breath of the Wild', the Sheikah Slate can be used to take photographs.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "What do you need to collect to increase Link's stamina or heart containers in 'Breath of the Wild'?",
+    "questionType": "MultipleChoice",
+    "options": ["Spirit Orbs", "Heart Pieces", "Korok Seeds", "Rupees"],
+    "correctAnswer": "Spirit Orbs",
+    "universe": "Zelda",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "In 'Tears of the Kingdom', the Depths is an underground area that's the mirror opposite of Hyrule's surface.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "What is the name of the dragon that appears in 'Tears of the Kingdom' and causes devastation?",
+    "questionType": "MultipleChoice",
+    "options": ["The Gloom Dragon", "King Gleeok", "Ganondorf", "Demise"],
+    "correctAnswer": "King Gleeok",
+    "universe": "Zelda",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "In 'Breath of the Wild', Guardians are ancient machines created by the Sheikah.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "What is the name of the sword that seals the darkness in 'Breath of the Wild'?",
+    "questionType": "MultipleChoice",
+    "options": ["Master Sword", "Biggoron Sword", "Fierce Deity Sword", "Great Flameblade"],
+    "correctAnswer": "Master Sword",
+    "universe": "Zelda",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "In 'Tears of the Kingdom', Zonai devices use Zonai charges as power sources.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Which ability in 'Tears of the Kingdom' allows Link to reverse the flow of time for objects?",
+    "questionType": "MultipleChoice",
+    "options": ["Recall", "Rewind", "Reverse", "Revert"],
+    "correctAnswer": "Recall",
+    "universe": "Zelda",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "In 'Breath of the Wild', there are 120 shrines to discover.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "What special power does Princess Zelda possess in the Zelda series?",
+    "questionType": "MultipleChoice",
+    "options": ["Wisdom", "Courage", "Power", "Knowledge"],
+    "correctAnswer": "Wisdom",
+    "universe": "Zelda",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "In 'Breath of the Wild', each Divine Beast is named after a sage from Ocarina of Time.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "Zelda",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Who is the Zora princess in 'Breath of the Wild'?",
+    "questionType": "MultipleChoice",
+    "options": ["Mipha", "Ruto", "Sidon", "Dorephan"],
+    "correctAnswer": "Mipha",
+    "universe": "Zelda",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "In 'Tears of the Kingdom', the Fuse ability allows Link to combine weapons with various objects.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Which is NOT one of the Dragon spirits in 'Breath of the Wild'?",
+    "questionType": "MultipleChoice",
+    "options": ["Naryu", "Dinraal", "Farosh", "Naydra"],
+    "correctAnswer": "Naryu",
+    "universe": "Zelda",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "In 'Breath of the Wild', the Yiga Clan was originally part of the Sheikah tribe.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "In 'Tears of the Kingdom', what resource do you need to use the Travel Medallion?",
+    "questionType": "MultipleChoice",
+    "options": ["Crystallized Charges", "Zonaite", "Light Dragon's Scales", "Brightbloom Seeds"],
+    "correctAnswer": "Crystallized Charges",
+    "universe": "Zelda",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "In 'Breath of the Wild', the Blood Moon restores all defeated enemies to life.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "What is the name of the Goron Champion in 'Breath of the Wild'?",
+    "questionType": "MultipleChoice",
+    "options": ["Daruk", "Yunobo", "Bludo", "Goron"],
+    "correctAnswer": "Daruk",
+    "universe": "Zelda",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "In 'Tears of the Kingdom', the character Rauru is from the present timeline.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "Zelda",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Which ancient tribe built the Sky Islands in 'Tears of the Kingdom'?",
+    "questionType": "MultipleChoice",
+    "options": ["Zonai", "Sheikah", "Gerudo", "Rito"],
+    "correctAnswer": "Zonai",
+    "universe": "Zelda",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "In 'Breath of the Wild', the Old Man on the Great Plateau is actually King Rhoam Bosphoramus Hyrule in disguise.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Which of these is NOT a Champion's ability in 'Breath of the Wild'?",
+    "questionType": "MultipleChoice",
+    "options": ["Link's Shield", "Urbosa's Fury", "Revali's Gale", "Mipha's Grace"],
+    "correctAnswer": "Link's Shield",
+    "universe": "Zelda",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "In 'Tears of the Kingdom', the character Mineru was one of the original Sages who sealed away Ganondorf.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "What mysterious substance corrupts parts of Hyrule in 'Tears of the Kingdom'?",
+    "questionType": "MultipleChoice",
+    "options": ["Gloom", "Malice", "Corruption", "Twilight"],
+    "correctAnswer": "Gloom",
+    "universe": "Zelda",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "In 'Breath of the Wild', Ancient Arrows can send Guardians to another dimension.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "Zelda",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Which divine beast is controlled by Revali in 'Breath of the Wild'?",
+    "questionType": "MultipleChoice",
+    "options": ["Vah Medoh", "Vah Ruta", "Vah Rudania", "Vah Naboris"],
+    "correctAnswer": "Vah Medoh",
+    "universe": "Zelda",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "In 'Tears of the Kingdom', Purah is a young girl due to a failed experiment that reversed her age.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Which character builds machines to help Link in 'Tears of the Kingdom'?",
+    "questionType": "MultipleChoice",
+    "options": ["Josha", "Robbie", "Purah", "Cece"],
+    "correctAnswer": "Josha",
+    "universe": "Zelda",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "In 'Breath of the Wild', the Deku Tree is located in the Korok Forest.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "What is the name of the dragon that drops Dinraal's Scale in 'Breath of the Wild'?",
+    "questionType": "MultipleChoice",
+    "options": ["Dinraal", "Farosh", "Naydra", "Volvagia"],
+    "correctAnswer": "Dinraal",
+    "universe": "Zelda",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "In 'Breath of the Wild', the Triforce is prominently featured in the main storyline.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "Zelda",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "Which timeline does 'Breath of the Wild' officially take place in?",
+    "questionType": "MultipleChoice",
+    "options": ["All timelines converged", "Child Timeline", "Adult Timeline", "Downfall Timeline"],
+    "correctAnswer": "All timelines converged",
+    "universe": "Zelda",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "In 'Tears of the Kingdom', the Demon King's real name is Ganondorf Dragmire.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "Zelda",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "What is the maximum number of hearts Link can have in 'Breath of the Wild' without DLC?",
+    "questionType": "MultipleChoice",
+    "options": ["30", "28", "20", "15"],
+    "correctAnswer": "30",
+    "universe": "Zelda",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "In 'Breath of the Wild', the Forgotten Temple contains a shrine with the name 'Rona Kachta'.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "Which of these abilities can NOT be used while falling in 'Tears of the Kingdom'?",
+    "questionType": "MultipleChoice",
+    "options": ["Ascend", "Recall", "Fuse", "Ultrahand"],
+    "correctAnswer": "Ascend",
+    "universe": "Zelda",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "In 'Tears of the Kingdom', the Master Sword is broken into five fragments.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "Zelda",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "What is the name of the civilization whose ruins appear in both 'Breath of the Wild' and 'Tears of the Kingdom'?",
+    "questionType": "MultipleChoice",
+    "options": ["Zonai", "Sheikah", "Hylian", "Gerudo"],
+    "correctAnswer": "Zonai",
+    "universe": "Zelda",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "In 'Breath of the Wild', you can get the Master Sword with only 13 hearts.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "What is the true identity of the character known as the Demon King in 'Tears of the Kingdom'?",
+    "questionType": "MultipleChoice",
+    "options": ["Ganondorf", "Demise", "Malice", "Calamity Ganon"],
+    "correctAnswer": "Ganondorf",
+    "universe": "Zelda",
+    "difficultyTier": 5
+  }
+]
