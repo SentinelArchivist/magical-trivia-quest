@@ -1,6 +1,6 @@
 // Main application entry point
 import { initGame, startNewGame, pauseGame, resumeGame, restartGame } from './game.js';
-import { initSkillTree, showSkillTree } from './skill-tree.js';
+import { initSkillTree, showSkillTree } from './skill-tree-adapter.js';
 import { getSettings, saveSettings, resetAllProgress } from './storage.js';
 
 // DOM elements - Screens
@@ -51,17 +51,31 @@ function showScreen(screenToShow) {
 
 // Initialize the application
 function initApp() {
+    console.log('Initializing application...');
+    
     // Apply saved settings
     applySettings();
     
     // Initialize game components
+    console.log('Initializing game components...');
     initGame();
     initSkillTree();
     
+    // Log DOM elements to verify they exist
+    console.log('Start Game Button:', startGameBtn);
+    console.log('Skill Tree Button:', skillTreeBtn);
+    console.log('Settings Button:', settingsBtn);
+    
     // Add event listeners for buttons
     startGameBtn.addEventListener('click', () => {
-        startNewGame();
-        showScreen(gameplayScreen);
+        console.log('Start Game button clicked!');
+        try {
+            startNewGame();
+            showScreen(gameplayScreen);
+            console.log('Game started successfully');
+        } catch (error) {
+            console.error('Error starting game:', error);
+        }
     });
     
     skillTreeBtn.addEventListener('click', () => {
@@ -233,3 +247,18 @@ function showNotification(message, duration = 3000) {
 
 // Export functions needed by other modules
 export { showScreen, showNotification };
+
+// Bridge between module system and non-module scripts
+// Expose key functions to the window object for the button-handler.js script
+window.showScreen = showScreen;
+window.startGame = function() {
+    startNewGame();
+    showScreen(gameplayScreen);
+};
+window.showSkillTree = function() {
+    showSkillTree();
+    showScreen(skillTreeScreen);
+};
+window.showSettings = function() {
+    showScreen(settingsScreen);
+};

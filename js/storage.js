@@ -1,7 +1,36 @@
 // Local storage management for the game
+
+// Environment detection
+const ENV = {
+    DEV: 'development',
+    TEST: 'test',
+    PROD: 'production'
+};
+
+// Determine current environment
+function getCurrentEnvironment() {
+    // Check for environment variable set by build process
+    if (window.ENV) {
+        return window.ENV;
+    }
+    
+    // Fallback to hostname-based detection
+    const hostname = window.location.hostname;
+    if (hostname === 'localhost' || hostname === '127.0.0.1') {
+        return ENV.DEV;
+    } else if (hostname.includes('test') || hostname.includes('staging')) {
+        return ENV.TEST;
+    }
+    return ENV.PROD;
+}
+
+const CURRENT_ENV = getCurrentEnvironment();
+console.log(`Running in ${CURRENT_ENV} environment`);
+
+// Storage keys with environment prefixes
 const STORAGE_KEYS = {
-    PLAYER_DATA: 'trivia-quest-player-data',
-    SETTINGS: 'trivia-quest-settings'
+    PLAYER_DATA: `trivia-quest-player-data-${CURRENT_ENV}`,
+    SETTINGS: `trivia-quest-settings-${CURRENT_ENV}`
 };
 
 // Default player data
@@ -53,6 +82,8 @@ function savePlayerData(playerData) {
 
 // Helper function to show storage error
 function showStorageError(operation) {
+    // Add environment info to the console error
+    console.error(`Storage error in ${CURRENT_ENV} environment while ${operation}`);
     // Only show the error once per session
     if (window._storageErrorShown) return;
     
@@ -81,10 +112,15 @@ function showStorageError(operation) {
 }
 
 // Update player's XP
-function updateXP(amount) {
+function updateXP(amount, isFromQuestion = false) {
     const playerData = getPlayerData();
     playerData.totalXP += amount;
-    playerData.questionsAnswered++;
+    
+    // Only increment questions answered if this XP is from answering a question
+    if (isFromQuestion) {
+        playerData.questionsAnswered++;
+    }
+    
     savePlayerData(playerData);
     
     // Return updated total for convenience
@@ -220,6 +256,11 @@ function resetProgress() {
     }
 }
 
+// Get current environment
+function getEnvironment() {
+    return CURRENT_ENV;
+}
+
 // Export functions for use in other modules
 export {
     getPlayerData,
@@ -232,5 +273,6 @@ export {
     getSettings,
     saveSettings,
     resetAllProgress,
-    resetProgress
+    resetProgress,
+    getEnvironment
 };
