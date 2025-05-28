@@ -1,0 +1,191 @@
+[
+  {
+    "questionText": "Which Disney film features the song 'When You Wish Upon a Star'?",
+    "questionType": "MultipleChoice",
+    "options": ["Pinocchio", "Snow White", "Dumbo", "Bambi"],
+    "correctAnswer": "Pinocchio",
+    "universe": "Disney",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "The Haunted Mansion attraction was first built at Disneyland before Walt Disney World.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "In 'Fantasia', what is the name of the segment featuring dancing hippos, ostriches, and alligators?",
+    "questionType": "MultipleChoice",
+    "options": ["Dance of the Hours", "Night on Bald Mountain", "The Sorcerer's Apprentice", "Rite of Spring"],
+    "correctAnswer": "Dance of the Hours",
+    "universe": "Disney",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "The voice actor for Mickey Mouse was originally Walt Disney himself.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Which Disney princess speaks the fewest lines in her movie?",
+    "questionType": "MultipleChoice",
+    "options": ["Aurora", "Snow White", "Merida", "Ariel"],
+    "correctAnswer": "Aurora",
+    "universe": "Disney",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "In Thor: Ragnarok, which actor makes a cameo as Asgardian Loki in a play?",
+    "questionType": "MultipleChoice",
+    "options": ["Matt Damon", "Benedict Cumberbatch", "Tom Hiddleston", "Chris Hemsworth"],
+    "correctAnswer": "Matt Damon",
+    "universe": "Marvel",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "In the comics, Hawkeye was temporarily deaf due to an injury.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "What is the name of the fictional metal that makes up Captain America's shield?",
+    "questionType": "MultipleChoice",
+    "options": ["Vibranium", "Adamantium", "Uru", "Carbonadium"],
+    "correctAnswer": "Vibranium",
+    "universe": "Marvel",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "In the MCU, Black Widow's real name is Natalia Alianovna Romanova.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Which of these characters was NOT an original member of the Avengers in the comics?",
+    "questionType": "MultipleChoice",
+    "options": ["Black Widow", "Iron Man", "Ant-Man", "Hulk"],
+    "correctAnswer": "Black Widow",
+    "universe": "Marvel",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "The planet Kashyyyk is the homeworld of the Wookiees.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "What is the name of Boba Fett's ship?",
+    "questionType": "MultipleChoice",
+    "options": ["Slave I", "Millennium Falcon", "Ghost", "Razor Crest"],
+    "correctAnswer": "Slave I",
+    "universe": "StarWars",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Obi-Wan Kenobi went by the alias 'Ben' while in exile on Tatooine.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Who said the line 'So this is how liberty dies, with thunderous applause'?",
+    "questionType": "MultipleChoice",
+    "options": ["Padmé Amidala", "Mon Mothma", "Leia Organa", "Bail Organa"],
+    "correctAnswer": "Padmé Amidala",
+    "universe": "StarWars",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "The actor who played Darth Vader physically and the actor who voiced him were different people.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "What is A113 in relation to Pixar?",
+    "questionType": "MultipleChoice",
+    "options": ["A classroom at CalArts where many animators studied", "The code name for Pixar's first computer", "The building number of Pixar's first office", "The lunch room at Pixar studios"],
+    "correctAnswer": "A classroom at CalArts where many animators studied",
+    "universe": "Pixar",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "The character of Edna Mode in 'The Incredibles' was voiced by director Brad Bird.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Which Pixar character makes a cameo appearance in 'Finding Nemo' during the dentist office scene?",
+    "questionType": "MultipleChoice",
+    "options": ["Buzz Lightyear", "Mike Wazowski", "Mr. Incredible", "Flik"],
+    "correctAnswer": "Buzz Lightyear",
+    "universe": "Pixar",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Toy Story was the first fully computer-animated feature film.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "In 'Monsters, Inc.', what is the name of the company's rival?",
+    "questionType": "MultipleChoice",
+    "options": ["Fear Co.", "Scream Industries", "Terror Inc.", "Monsters, Inc."],
+    "correctAnswer": "Fear Co.",
+    "universe": "Pixar",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "In 'The Legend of Zelda: Skyward Sword', Link's Loftwing is which color?",
+    "questionType": "MultipleChoice",
+    "options": ["Crimson", "Blue", "Green", "Purple"],
+    "correctAnswer": "Crimson",
+    "universe": "Zelda",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "The Minish Cap was made by the Minish to combat the evil sorcerer Vaati.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "What is the name of the giant bird that kidnaps Link's sister in 'The Wind Waker'?",
+    "questionType": "MultipleChoice",
+    "options": ["Helmaroc King", "Kargaroc", "Quill", "Medli"],
+    "correctAnswer": "Helmaroc King",
+    "universe": "Zelda",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "In 'Ocarina of Time', the Temple of Time houses the Master Sword.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "What is the name of the main antagonist in 'Skyward Sword'?",
+    "questionType": "MultipleChoice",
+    "options": ["Demise", "Ganondorf", "Vaati", "Zant"],
+    "correctAnswer": "Demise",
+    "universe": "Zelda",
+    "difficultyTier": 4
+  }
+]

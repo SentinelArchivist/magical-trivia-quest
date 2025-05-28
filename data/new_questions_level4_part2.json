@@ -1,0 +1,190 @@
+[
+  {
+    "questionText": "Which Disney film was the first to use the multiplane camera technique?",
+    "questionType": "MultipleChoice",
+    "options": ["Snow White and the Seven Dwarfs", "Pinocchio", "Fantasia", "Bambi"],
+    "correctAnswer": "Snow White and the Seven Dwarfs",
+    "universe": "Disney",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "The original concept for EPCOT was for it to be an actual functioning city.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Which Disney movie features the villain Shan Yu?",
+    "questionType": "MultipleChoice",
+    "options": ["Mulan", "Aladdin", "Hercules", "The Emperor's New Groove"],
+    "correctAnswer": "Mulan",
+    "universe": "Disney",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "The character Figment was created specifically for EPCOT's Journey Into Imagination attraction.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Who was the first Disney Princess to have a non-caucasian ethnicity?",
+    "questionType": "MultipleChoice",
+    "options": ["Jasmine", "Pocahontas", "Mulan", "Tiana"],
+    "correctAnswer": "Jasmine",
+    "universe": "Disney",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "In Marvel Comics, who was the original founder of the Avengers?",
+    "questionType": "MultipleChoice",
+    "options": ["Ant-Man", "Iron Man", "Captain America", "Nick Fury"],
+    "correctAnswer": "Ant-Man",
+    "universe": "Marvel",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Captain America's shield is completely indestructible in the MCU.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "Marvel",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Which of these characters was NOT one of the original X-Men in the comics?",
+    "questionType": "MultipleChoice",
+    "options": ["Wolverine", "Cyclops", "Beast", "Angel"],
+    "correctAnswer": "Wolverine",
+    "universe": "Marvel",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "In the MCU, Tony Stark's father Howard worked on the Super Soldier program that created Captain America.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "What is the name of the fictional country where Black Panther rules?",
+    "questionType": "MultipleChoice",
+    "options": ["Wakanda", "Latveria", "Sokovia", "Genosha"],
+    "correctAnswer": "Wakanda",
+    "universe": "Marvel",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Order 66 was the command to the clone troopers to eliminate all Jedi.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Which Star Wars character was played by Peter Mayhew?",
+    "questionType": "MultipleChoice",
+    "options": ["Chewbacca", "C-3PO", "Darth Vader", "Yoda"],
+    "correctAnswer": "Chewbacca",
+    "universe": "StarWars",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "The planet Kamino, where the clone army was created, does not appear in the Jedi Archives.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "What color was Mace Windu's lightsaber?",
+    "questionType": "MultipleChoice",
+    "options": ["Purple", "Blue", "Green", "Red"],
+    "correctAnswer": "Purple",
+    "universe": "StarWars",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "In 'The Empire Strikes Back', Han Solo is frozen in carbonite on Cloud City.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "What is the name of the short film that plays before 'Inside Out'?",
+    "questionType": "MultipleChoice",
+    "options": ["Lava", "Bao", "Piper", "Sanjay's Super Team"],
+    "correctAnswer": "Lava",
+    "universe": "Pixar",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "The character of Merida in 'Brave' was Pixar's first female protagonist.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Which Pixar movie features the song 'Remember Me'?",
+    "questionType": "MultipleChoice",
+    "options": ["Coco", "Up", "Inside Out", "Soul"],
+    "correctAnswer": "Coco",
+    "universe": "Pixar",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "In 'Finding Nemo', the dentist's office is located in Sydney, Australia.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "In 'Toy Story 3', where are Andy's toys accidentally donated?",
+    "questionType": "MultipleChoice",
+    "options": ["Sunnyside Daycare", "Goodwill", "The Salvation Army", "The Tri-County Landfill"],
+    "correctAnswer": "Sunnyside Daycare",
+    "universe": "Pixar",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "In 'Twilight Princess', Link's wolf form was created by combining the DNA of a wolf and a Twili.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "Zelda",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Which Zelda game first introduced the concept of parallel worlds?",
+    "questionType": "MultipleChoice",
+    "options": ["A Link to the Past", "Ocarina of Time", "Majora's Mask", "Link's Awakening"],
+    "correctAnswer": "A Link to the Past",
+    "universe": "Zelda",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "In 'Breath of the Wild', cooking during a blood moon provides a bonus effect.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "Zelda",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Which race built the Divine Beasts in 'Breath of the Wild'?",
+    "questionType": "MultipleChoice",
+    "options": ["Sheikah", "Hylian", "Gerudo", "Goron"],
+    "correctAnswer": "Sheikah",
+    "universe": "Zelda",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "In 'Ocarina of Time', the Shadow Temple is located beneath Kakariko Village.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 4
+  }
+]

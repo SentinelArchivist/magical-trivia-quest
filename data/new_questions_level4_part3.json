@@ -1,0 +1,190 @@
+[
+  {
+    "questionText": "The 'Partners' statue at Disney parks depicts Walt Disney holding hands with which character?",
+    "questionType": "MultipleChoice",
+    "options": ["Mickey Mouse", "Donald Duck", "Goofy", "Pluto"],
+    "correctAnswer": "Mickey Mouse",
+    "universe": "Disney",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Disney's 'Alice in Wonderland' was released before 'Peter Pan'.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Which Disney princess has the least amount of screen time in their own movie?",
+    "questionType": "MultipleChoice",
+    "options": ["Aurora", "Snow White", "Jasmine", "Tiana"],
+    "correctAnswer": "Aurora",
+    "universe": "Disney",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "The character Ursula from 'The Little Mermaid' was partially inspired by the drag queen Divine.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Which Disney movie was the first to use CGI extensively?",
+    "questionType": "MultipleChoice",
+    "options": ["The Black Cauldron", "Beauty and the Beast", "The Great Mouse Detective", "The Little Mermaid"],
+    "correctAnswer": "The Great Mouse Detective",
+    "universe": "Disney",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "The character 'Blade' first appeared in which Marvel comic?",
+    "questionType": "MultipleChoice",
+    "options": ["Tomb of Dracula", "Blade", "The Avengers", "X-Men"],
+    "correctAnswer": "Tomb of Dracula",
+    "universe": "Marvel",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "In the comics, Ultron was created by Hank Pym (Ant-Man), not Tony Stark.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Which of these characters did NOT appear in the first 'Avengers' movie?",
+    "questionType": "MultipleChoice",
+    "options": ["Scarlet Witch", "Black Widow", "Hawkeye", "Nick Fury"],
+    "correctAnswer": "Scarlet Witch",
+    "universe": "Marvel",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Peter Parker developed his web fluid formula himself in most comic adaptations.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Which Marvel villain was responsible for the destruction of Thor's hammer Mjolnir in 'Thor: Ragnarok'?",
+    "questionType": "MultipleChoice",
+    "options": ["Hela", "Surtur", "Thanos", "Loki"],
+    "correctAnswer": "Hela",
+    "universe": "Marvel",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "George Lucas was inspired by samurai films when creating the concept of Jedi.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "What type of fuel does the Millennium Falcon use?",
+    "questionType": "MultipleChoice",
+    "options": ["Coaxium", "Kyber crystals", "Tibanna gas", "Bacta"],
+    "correctAnswer": "Coaxium",
+    "universe": "StarWars",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Darth Vader's helmet was inspired by samurai helmets.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Which planet is home to the Gungan species?",
+    "questionType": "MultipleChoice",
+    "options": ["Naboo", "Tatooine", "Kamino", "Coruscant"],
+    "correctAnswer": "Naboo",
+    "universe": "StarWars",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "The language spoken by the Ewoks was based on the Tibetan language.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Who was the voice actor for Woody in the 'Toy Story' franchise?",
+    "questionType": "MultipleChoice",
+    "options": ["Tom Hanks", "Tim Allen", "John Ratzenberger", "Billy Crystal"],
+    "correctAnswer": "Tom Hanks",
+    "universe": "Pixar",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "WALL-E's name stands for Waste Allocation Load Lifter: Earth-Class.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Which Pixar film features the character 'Doc Hudson'?",
+    "questionType": "MultipleChoice",
+    "options": ["Cars", "Up", "Brave", "Toy Story"],
+    "correctAnswer": "Cars",
+    "universe": "Pixar",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "The original story for 'Up' included a floating castle instead of a house.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "In 'Inside Out', which emotion is voiced by Lewis Black?",
+    "questionType": "MultipleChoice",
+    "options": ["Anger", "Fear", "Disgust", "Sadness"],
+    "correctAnswer": "Anger",
+    "universe": "Pixar",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "The Hookshot first appeared in 'A Link to the Past'.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "What is the name of the main antagonist in 'The Wind Waker'?",
+    "questionType": "MultipleChoice",
+    "options": ["Ganondorf", "Vaati", "Bellum", "Zant"],
+    "correctAnswer": "Ganondorf",
+    "universe": "Zelda",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "In 'Majora's Mask', the moon crashes into Termina after 72 hours.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "Zelda",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Which musical instrument is featured in 'The Wind Waker'?",
+    "questionType": "MultipleChoice",
+    "options": ["A conductor's baton", "An ocarina", "A harp", "A flute"],
+    "correctAnswer": "A conductor's baton",
+    "universe": "Zelda",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "In 'Breath of the Wild', there are exactly 120 Shrines to discover.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 4
+  }
+]

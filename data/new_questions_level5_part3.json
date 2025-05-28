@@ -1,0 +1,190 @@
+[
+  {
+    "questionText": "In what year did Walt Disney first sketch Mickey Mouse?",
+    "questionType": "MultipleChoice",
+    "options": ["1928", "1927", "1929", "1930"],
+    "correctAnswer": "1928",
+    "universe": "Disney",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "The original concept art for Ursula in 'The Little Mermaid' was based on the drag queen Divine.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "Which Disney film was the first to use the Deep Canvas animation technique?",
+    "questionType": "MultipleChoice",
+    "options": ["Tarzan", "Hercules", "Mulan", "The Lion King"],
+    "correctAnswer": "Tarzan",
+    "universe": "Disney",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "Disney's 'Sleeping Beauty' was a commercial failure upon its initial release.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "Which Disney theme park was the first to feature the 'Splash Mountain' attraction?",
+    "questionType": "MultipleChoice",
+    "options": ["Disneyland", "Walt Disney World", "Tokyo Disneyland", "Disneyland Paris"],
+    "correctAnswer": "Disneyland",
+    "universe": "Disney",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "The Marvel villain Apocalypse's real name is En Sabah Nur.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "In the comics, which superhero was responsible for the creation of the supervillain Venom?",
+    "questionType": "MultipleChoice",
+    "options": ["Spider-Man", "Iron Man", "Reed Richards", "Captain America"],
+    "correctAnswer": "Spider-Man",
+    "universe": "Marvel",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "In the original Marvel Comics, Captain America's shield was made of a vibranium-adamantium alloy.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "Which character was the first non-Thor individual deemed worthy to lift Mjolnir in Marvel Comics?",
+    "questionType": "MultipleChoice",
+    "options": ["Beta Ray Bill", "Captain America", "Vision", "Jane Foster"],
+    "correctAnswer": "Beta Ray Bill",
+    "universe": "Marvel",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "Wolverine's adamantium skeleton was grafted onto his body as part of the Weapon X program.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "What substance powers lightsabers in Star Wars?",
+    "questionType": "MultipleChoice",
+    "options": ["Kyber crystals", "Tibanna gas", "Coaxium", "Bacta"],
+    "correctAnswer": "Kyber crystals",
+    "universe": "StarWars",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "Jedi Master Sifo-Dyas ordered the creation of the clone army before the events of 'The Phantom Menace'.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "What is the name of the planet where Count Dooku was killed by Anakin Skywalker?",
+    "questionType": "MultipleChoice",
+    "options": ["Coruscant", "Mustafar", "Geonosis", "Utapau"],
+    "correctAnswer": "Coruscant",
+    "universe": "StarWars",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "The Mandalorian language is called Mando'a.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "Which of these Star Wars characters was NOT killed by Darth Vader?",
+    "questionType": "MultipleChoice",
+    "options": ["Mace Windu", "Obi-Wan Kenobi", "Captain Antilles", "Admiral Ozzel"],
+    "correctAnswer": "Mace Windu",
+    "universe": "StarWars",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "The character Eve in 'WALL-E' was designed with input from Apple's Jonathan Ive.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "What was the working title for 'Finding Nemo' during production?",
+    "questionType": "MultipleChoice",
+    "options": ["Coral", "Splash", "Fish Story", "Deep Blue"],
+    "correctAnswer": "Coral",
+    "universe": "Pixar",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "Pixar's 'Inside Out' features six different emotions as main characters.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "Pixar",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "Which of these Pixar films was directed by Brad Bird?",
+    "questionType": "MultipleChoice",
+    "options": ["The Incredibles", "Finding Nemo", "Monsters, Inc.", "Toy Story"],
+    "correctAnswer": "The Incredibles",
+    "universe": "Pixar",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "In 'Ratatouille', Gusteau's restaurant had 5 stars before losing one due to a negative review from Anton Ego.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "In 'The Legend of Zelda: A Link to the Past', what is the name of the parallel world to Hyrule?",
+    "questionType": "MultipleChoice",
+    "options": ["The Dark World", "Termina", "Lorule", "The Twilight Realm"],
+    "correctAnswer": "The Dark World",
+    "universe": "Zelda",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "In the original 'The Legend of Zelda', the second quest is accessible by entering the name 'ZELDA' as your save file.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "What is the name of the Ocarina tune that teleports Link to the Temple of Time in 'Ocarina of Time'?",
+    "questionType": "MultipleChoice",
+    "options": ["Prelude of Light", "Serenade of Water", "Minuet of Forest", "Requiem of Spirit"],
+    "correctAnswer": "Prelude of Light",
+    "universe": "Zelda",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "The Happy Mask Salesman in 'Majora's Mask' is the same character as the one in 'Ocarina of Time'.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "Which game in the Zelda series first introduced the Hookshot item?",
+    "questionType": "MultipleChoice",
+    "options": ["A Link to the Past", "The Legend of Zelda", "Link's Awakening", "Ocarina of Time"],
+    "correctAnswer": "A Link to the Past",
+    "universe": "Zelda",
+    "difficultyTier": 5
+  }
+]

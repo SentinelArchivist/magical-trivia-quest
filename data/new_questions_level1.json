@@ -1,0 +1,668 @@
+[
+  {
+    "questionText": "Mickey Mouse has black ears.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Cinderella's glass slippers were actually made of gold in the original movie.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "Disney",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Ariel's best friend in 'The Little Mermaid' is a fish named Flounder.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "In 'Beauty and the Beast', Gaston ate four dozen eggs every morning.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "Disney",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Winnie the Pooh's favorite food is honey.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Simba's father in 'The Lion King' is named Mufasa.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Dumbo is a talking elephant.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "Disney",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Belle from 'Beauty and the Beast' loves to read books.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Aladdin's monkey is named Abu.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Peter Pan lives in Wonderland.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "Disney",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Snow White lived with seven dwarfs.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Buzz Lightyear's catchphrase is 'To infinity and beyond!'",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Elsa from 'Frozen' has the power to control fire.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "Disney",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "In 'The Princess and the Frog', Tiana dreams of opening a restaurant.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Rapunzel's chameleon friend is named Pascal.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Moana's animal sidekick is a pig named Pua.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "The villain in 'Sleeping Beauty' is named Maleficent.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Mulan disguised herself as a man to join the army.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Pocahontas has a raccoon friend named Meeko.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Pinocchio's nose grows when he tells the truth.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "Disney",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "What color is Spider-Man's costume?",
+    "questionType": "MultipleChoice",
+    "options": ["Red and Blue", "Black and Yellow", "Green and Purple", "Orange and Brown"],
+    "correctAnswer": "Red and Blue",
+    "universe": "Marvel",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Iron Man's real name is Tony Stark.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Captain America's shield is made of vibranium.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "The Hulk is blue when he transforms.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "Marvel",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Thor is from a place called Asgard.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "What is the name of Black Panther's home country?",
+    "questionType": "MultipleChoice",
+    "options": ["Wakanda", "Latveria", "Genosha", "Atlantis"],
+    "correctAnswer": "Wakanda",
+    "universe": "Marvel",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Doctor Strange was originally a medical doctor.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Hawkeye uses a bow and arrow.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Ant-Man can only shrink, not grow larger.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "Marvel",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Black Widow's real name is Natasha Romanoff.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Who is Spider-Man's best friend in the MCU?",
+    "questionType": "MultipleChoice",
+    "options": ["Ned Leeds", "Harry Osborn", "Flash Thompson", "Eddie Brock"],
+    "correctAnswer": "Ned Leeds",
+    "universe": "Marvel",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "The Guardians of the Galaxy include a talking raccoon.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Captain Marvel's real name is Carol Danvers.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "The Winter Soldier was Captain America's enemy.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Who is Iron Man's AI assistant in the first Iron Man movie?",
+    "questionType": "MultipleChoice",
+    "options": ["JARVIS", "FRIDAY", "EDITH", "KAREN"],
+    "correctAnswer": "JARVIS",
+    "universe": "Marvel",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Thanos collected all six Infinity Stones.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Wolverine is a member of the X-Men.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "The Fantastic Four have five members.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "Marvel",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Loki is Thor's adopted brother.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Darth Vader is Luke Skywalker's father.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Han Solo's ship is called the Millennium Falcon.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Jedi use red lightsabers.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "StarWars",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "R2-D2 is a protocol droid.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "StarWars",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "What planet is Princess Leia from?",
+    "questionType": "MultipleChoice",
+    "options": ["Alderaan", "Tatooine", "Naboo", "Hoth"],
+    "correctAnswer": "Alderaan",
+    "universe": "StarWars",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Yoda speaks in a normal sentence structure.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "StarWars",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Chewbacca is a Wookiee.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "The Death Star is capable of destroying planets.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Boba Fett is a Jedi Knight.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "StarWars",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "What color is Luke Skywalker's lightsaber in 'Return of the Jedi'?",
+    "questionType": "MultipleChoice",
+    "options": ["Green", "Blue", "Red", "Purple"],
+    "correctAnswer": "Green",
+    "universe": "StarWars",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "The Rebel Alliance logo is a starbird.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Stormtroopers wear white armor.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Tatooine has one sun.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "StarWars",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Who is Anakin Skywalker's Jedi Master?",
+    "questionType": "MultipleChoice",
+    "options": ["Obi-Wan Kenobi", "Qui-Gon Jinn", "Yoda", "Mace Windu"],
+    "correctAnswer": "Obi-Wan Kenobi",
+    "universe": "StarWars",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Ewoks live on the forest moon of Endor.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "The Jedi Council has 12 members.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "AT-AT stands for All Terrain Armored Transport.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Jar Jar Binks is a Gungan.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "The first Pixar film was 'Toy Story'.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "What is the name of the robot in 'WALL-E'?",
+    "questionType": "MultipleChoice",
+    "options": ["WALL-E", "EVE", "AUTO", "MO"],
+    "correctAnswer": "WALL-E",
+    "universe": "Pixar",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "In 'Finding Nemo', Nemo is a clownfish.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "The main character in 'Brave' has red hair.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "The villain in 'The Incredibles' is named Syndrome.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "What is the name of the blue monster in 'Monsters, Inc.'?",
+    "questionType": "MultipleChoice",
+    "options": ["Sulley", "Mike", "Randall", "Boo"],
+    "correctAnswer": "Sulley",
+    "universe": "Pixar",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Lightning McQueen is a racing car in 'Cars'.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Remy from 'Ratatouille' is a mouse.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "Pixar",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "In 'Up', Carl ties balloons to his house to make it fly.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Who is the star toy in 'Toy Story'?",
+    "questionType": "MultipleChoice",
+    "options": ["Woody", "Buzz Lightyear", "Rex", "Mr. Potato Head"],
+    "correctAnswer": "Woody",
+    "universe": "Pixar",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "The main emotion in 'Inside Out' is Joy.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "In 'Coco', Miguel wants to become a chef.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "Pixar",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Dory in 'Finding Nemo' has short-term memory loss.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "What is the name of Andy's sister in 'Toy Story'?",
+    "questionType": "MultipleChoice",
+    "options": ["Molly", "Hannah", "Emily", "Daisy"],
+    "correctAnswer": "Molly",
+    "universe": "Pixar",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Edna Mode designs superhero costumes in 'The Incredibles'.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "WALL-E collects trash on Earth.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Boo is the monster in 'Monsters, Inc.'",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "Pixar",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Anton Ego is the food critic in 'Ratatouille'.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "The main character in 'The Legend of Zelda' series is named Zelda.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "Zelda",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "What is the name of the main protagonist in 'The Legend of Zelda'?",
+    "questionType": "MultipleChoice",
+    "options": ["Link", "Zelda", "Ganon", "Epona"],
+    "correctAnswer": "Link",
+    "universe": "Zelda",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "The Triforce is made up of three triangles.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Princess Zelda possesses the Triforce of Wisdom.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Ganondorf is the main antagonist in most Zelda games.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "What is the name of Link's horse?",
+    "questionType": "MultipleChoice",
+    "options": ["Epona", "Shadow", "Agro", "Roach"],
+    "correctAnswer": "Epona",
+    "universe": "Zelda",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "The Master Sword is also known as the Blade of Evil's Bane.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Hyrule is the main setting of most Zelda games.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Link wears a green tunic in most games.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "What instrument does Link play in 'Ocarina of Time'?",
+    "questionType": "MultipleChoice",
+    "options": ["Ocarina", "Flute", "Harp", "Drum"],
+    "correctAnswer": "Ocarina",
+    "universe": "Zelda",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Navi is a fairy companion in 'Ocarina of Time'.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "The Kokiri are a race of forest children.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "The Gorons eat rocks.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "What is the name of the shark-like race in Zelda games?",
+    "questionType": "MultipleChoice",
+    "options": ["Zora", "Goron", "Gerudo", "Kokiri"],
+    "correctAnswer": "Zora",
+    "universe": "Zelda",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Majora's Mask gives Link only three days to save the world.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Link can transform into a wolf in 'Twilight Princess'.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "The Sheikah are an ancient tribe that served the royal family.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 1
+  },
+  {
+    "questionText": "Heart Containers increase Link's maximum health.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 1
+  }
+]

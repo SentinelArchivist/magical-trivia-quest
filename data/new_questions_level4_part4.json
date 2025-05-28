@@ -1,0 +1,190 @@
+[
+  {
+    "questionText": "Which Disney film featured the first full-color, three-strip Technicolor process?",
+    "questionType": "MultipleChoice",
+    "options": ["Flowers and Trees", "Snow White and the Seven Dwarfs", "Pinocchio", "Fantasia"],
+    "correctAnswer": "Flowers and Trees",
+    "universe": "Disney",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "The 'Hidden Mickey' phenomenon began with Disney Imagineers hiding Mickey silhouettes in Disneyland attractions.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Which Disney theme park opened first after Disneyland?",
+    "questionType": "MultipleChoice",
+    "options": ["Walt Disney World", "Tokyo Disneyland", "Disneyland Paris", "Hong Kong Disneyland"],
+    "correctAnswer": "Walt Disney World",
+    "universe": "Disney",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "The 'Be Our Guest' restaurant in Walt Disney World was originally planned to be called 'Enchanted Castle'.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Who was the first Disney princess to have a solo singing part?",
+    "questionType": "MultipleChoice",
+    "options": ["Snow White", "Cinderella", "Aurora", "Ariel"],
+    "correctAnswer": "Snow White",
+    "universe": "Disney",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "The real name of the villain 'Mysterio' in Spider-Man comics is Quentin Beck.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Which actor has portrayed the most different Marvel characters in live-action films?",
+    "questionType": "MultipleChoice",
+    "options": ["Chris Evans", "Josh Brolin", "Gemma Chan", "Paul Bettany"],
+    "correctAnswer": "Gemma Chan",
+    "universe": "Marvel",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "The Infinity Stones were referred to as 'Infinity Gems' in the original Marvel comics.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Which character does Samuel L. Jackson play in the Marvel Cinematic Universe?",
+    "questionType": "MultipleChoice",
+    "options": ["Nick Fury", "Blade", "War Machine", "The Falcon"],
+    "correctAnswer": "Nick Fury",
+    "universe": "Marvel",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "In the comics, Deadpool's healing factor was derived from Wolverine's DNA.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Which creature is Jabba the Hutt?",
+    "questionType": "MultipleChoice",
+    "options": ["Hutt", "Rodian", "Twi'lek", "Wookiee"],
+    "correctAnswer": "Hutt",
+    "universe": "StarWars",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Admiral Ackbar is famous for saying 'It's a trap!'",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Who played Princess Leia in the original Star Wars trilogy?",
+    "questionType": "MultipleChoice",
+    "options": ["Carrie Fisher", "Natalie Portman", "Daisy Ridley", "Felicity Jones"],
+    "correctAnswer": "Carrie Fisher",
+    "universe": "StarWars",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "The Death Star plans in 'A New Hope' were stored on data tapes.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "What was the name of Anakin Skywalker's podracer in 'The Phantom Menace'?",
+    "questionType": "MultipleChoice",
+    "options": ["It didn't have a name", "The Scimitar", "The Invisible Hand", "The Twilight"],
+    "correctAnswer": "It didn't have a name",
+    "universe": "StarWars",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "In 'The Incredibles', Syndrome's real name is Buddy Pine.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Which Pixar film was the first to win the Academy Award for Best Animated Feature?",
+    "questionType": "MultipleChoice",
+    "options": ["Finding Nemo", "The Incredibles", "Toy Story", "Monsters, Inc."],
+    "correctAnswer": "Finding Nemo",
+    "universe": "Pixar",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "The Pizza Planet truck appears in every Pixar film except 'The Incredibles'.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "Pixar",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "What is the name of the protagonist in 'Ratatouille'?",
+    "questionType": "MultipleChoice",
+    "options": ["Remy", "Linguini", "Colette", "Ego"],
+    "correctAnswer": "Remy",
+    "universe": "Pixar",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "The character Dug from 'Up' was voiced by the film's director, Pete Docter.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "Pixar",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "The Happy Mask Salesman first appeared in which Zelda game?",
+    "questionType": "MultipleChoice",
+    "options": ["Ocarina of Time", "Majora's Mask", "Link's Awakening", "A Link to the Past"],
+    "correctAnswer": "Ocarina of Time",
+    "universe": "Zelda",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "The Tingle character was created for 'The Wind Waker'.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "Zelda",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Which of these is NOT one of the four Divine Beasts in 'Breath of the Wild'?",
+    "questionType": "MultipleChoice",
+    "options": ["Vah Medoh", "Vah Naboris", "Vah Rudania", "Vah Jabari"],
+    "correctAnswer": "Vah Jabari",
+    "universe": "Zelda",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "In 'Skyward Sword', Zelda is revealed to be a reincarnation of the goddess Hylia.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 4
+  },
+  {
+    "questionText": "Which musical instrument is used to play the Song of Time in 'Ocarina of Time'?",
+    "questionType": "MultipleChoice",
+    "options": ["Ocarina of Time", "Fairy Ocarina", "Wind Waker", "Goddess Harp"],
+    "correctAnswer": "Ocarina of Time",
+    "universe": "Zelda",
+    "difficultyTier": 4
+  }
+]

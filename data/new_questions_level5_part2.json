@@ -1,0 +1,190 @@
+[
+  {
+    "questionText": "Which Disney feature was the first to have its entire soundtrack recorded in stereo?",
+    "questionType": "MultipleChoice",
+    "options": ["Fantasia", "Snow White", "Pinocchio", "Dumbo"],
+    "correctAnswer": "Fantasia",
+    "universe": "Disney",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "Disney's 'Pocahontas' was released the same year as 'Toy Story'.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "Which ride at Disneyland was personally supervised by Walt Disney during construction?",
+    "questionType": "MultipleChoice",
+    "options": ["Pirates of the Caribbean", "Haunted Mansion", "It's a Small World", "Space Mountain"],
+    "correctAnswer": "Pirates of the Caribbean",
+    "universe": "Disney",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "The film 'Who Framed Roger Rabbit' featured both Disney and Warner Bros. cartoon characters.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "Which Disney animated film was the first to be based on a fairy tale written by Hans Christian Andersen?",
+    "questionType": "MultipleChoice",
+    "options": ["The Little Mermaid", "Snow White", "Sleeping Beauty", "The Snow Queen"],
+    "correctAnswer": "The Little Mermaid",
+    "universe": "Disney",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "In the original Marvel Comics, what metal was used to coat Ultron's body making him nearly indestructible?",
+    "questionType": "MultipleChoice",
+    "options": ["Adamantium", "Vibranium", "Uru", "Carbonadium"],
+    "correctAnswer": "Adamantium",
+    "universe": "Marvel",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "The original Human Torch in Marvel Comics was an android, not a human mutate like Johnny Storm.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "Who was the first character to wield Thor's hammer Mjolnir in Marvel Comics aside from Thor himself?",
+    "questionType": "MultipleChoice",
+    "options": ["Beta Ray Bill", "Captain America", "Vision", "Wonder Man"],
+    "correctAnswer": "Beta Ray Bill",
+    "universe": "Marvel",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "In the comics, Scarlet Witch and Quicksilver were originally introduced as members of the Brotherhood of Evil Mutants.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "What is the real name of the Marvel villain known as The Mandarin?",
+    "questionType": "MultipleChoice",
+    "options": ["Zhang Tong", "Xu Wenwu", "Fu Manchu", "Shang Chi"],
+    "correctAnswer": "Zhang Tong",
+    "universe": "Marvel",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "The name 'Ewok' is never actually spoken in 'Return of the Jedi'.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "What is the name of Darth Vader's personal flagship Star Destroyer?",
+    "questionType": "MultipleChoice",
+    "options": ["Executor", "Devastator", "Avenger", "Finalizer"],
+    "correctAnswer": "Executor",
+    "universe": "StarWars",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "The design for the Millennium Falcon was inspired by a hamburger with an olive on the side.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "Which actor played Grand Moff Tarkin in the original Star Wars film?",
+    "questionType": "MultipleChoice",
+    "options": ["Peter Cushing", "Alec Guinness", "Christopher Lee", "Ian McDiarmid"],
+    "correctAnswer": "Peter Cushing",
+    "universe": "StarWars",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "The original script for 'The Empire Strikes Back' had Obi-Wan Kenobi returning physically, not as a Force ghost.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "What was the name of the animation system Pixar developed for 'Brave' to animate Merida's curly hair?",
+    "questionType": "MultipleChoice",
+    "options": ["Taz", "Presto", "Renderman", "Fizt"],
+    "correctAnswer": "Taz",
+    "universe": "Pixar",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "The Pixar film 'A Bug's Life' is loosely based on Aesop's fable 'The Ant and the Grasshopper'.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "Pixar",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "Which Pixar film features a character voiced by Paul Newman in his final film role?",
+    "questionType": "MultipleChoice",
+    "options": ["Cars", "The Incredibles", "Finding Nemo", "Ratatouille"],
+    "correctAnswer": "Cars",
+    "universe": "Pixar",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "The 'Luxo Ball' that appears in many Pixar films features a star inside a red stripe.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "Pixar",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "What was the code name for 'Finding Nemo' during its production?",
+    "questionType": "MultipleChoice",
+    "options": ["Coral", "Dory", "Gill", "Bruce"],
+    "correctAnswer": "Coral",
+    "universe": "Pixar",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "In the original 'The Legend of Zelda', the second quest is unlocked by beating the game and starting a new file with the name 'ZELDA'.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "In 'Ocarina of Time', what is the name of the Gerudo leader who serves as Ganondorf's surrogate mother?",
+    "questionType": "MultipleChoice",
+    "options": ["Twinrova", "Nabooru", "Koume", "Kotake"],
+    "correctAnswer": "Twinrova",
+    "universe": "Zelda",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "The Legend of Zelda: Link's Awakening was originally developed as a port of A Link to the Past for the Game Boy.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "Which Zelda game first introduced the concept of alternate timelines?",
+    "questionType": "MultipleChoice",
+    "options": ["Ocarina of Time", "Majora's Mask", "Wind Waker", "Oracle of Ages"],
+    "correctAnswer": "Ocarina of Time",
+    "universe": "Zelda",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "In 'Breath of the Wild', it's possible to defeat the final boss without completing any of the Divine Beast quests.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 5
+  }
+]

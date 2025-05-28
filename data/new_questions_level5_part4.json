@@ -1,0 +1,190 @@
+[
+  {
+    "questionText": "Which Disney film was the last to be personally overseen by Walt Disney before his death?",
+    "questionType": "MultipleChoice",
+    "options": ["The Jungle Book", "The Aristocats", "Robin Hood", "The Sword in the Stone"],
+    "correctAnswer": "The Jungle Book",
+    "universe": "Disney",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "Disney's California Adventure park was originally going to be called 'Disney's America'.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "Disney",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "Which Disney attraction was the first to feature audio-animatronic figures?",
+    "questionType": "MultipleChoice",
+    "options": ["Enchanted Tiki Room", "It's a Small World", "Pirates of the Caribbean", "Haunted Mansion"],
+    "correctAnswer": "Enchanted Tiki Room",
+    "universe": "Disney",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "The castle at Disney World is named after the castle in 'Sleeping Beauty', while the castle at Disneyland is named after the castle in 'Cinderella'.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "Disney",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "Which Disney animated film had the longest production time, at over six years?",
+    "questionType": "MultipleChoice",
+    "options": ["The Black Cauldron", "Sleeping Beauty", "Fantasia", "Snow White"],
+    "correctAnswer": "Sleeping Beauty",
+    "universe": "Disney",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "In Marvel Comics, which of these characters has NEVER wielded the Infinity Gauntlet?",
+    "questionType": "MultipleChoice",
+    "options": ["Wolverine", "Spider-Man", "Iron Man", "Captain America"],
+    "correctAnswer": "Wolverine",
+    "universe": "Marvel",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "In the comics, Wolverine's claws were initially believed to be part of his gloves rather than extensions of his body.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "What is the real name of the Marvel villain Doctor Doom?",
+    "questionType": "MultipleChoice",
+    "options": ["Victor Von Doom", "Otto Octavius", "Max Eisenhardt", "Calvin Zabo"],
+    "correctAnswer": "Victor Von Doom",
+    "universe": "Marvel",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "In the Marvel Comics, Spider-Man's web-shooters were mechanical devices he invented, not biological adaptations.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "Which Marvel character holds the official title of 'Sorcerer Supreme' in the main comics continuity?",
+    "questionType": "MultipleChoice",
+    "options": ["Doctor Strange", "Agatha Harkness", "Wong", "Ancient One"],
+    "correctAnswer": "Doctor Strange",
+    "universe": "Marvel",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "The planet Dagobah, where Yoda went into exile, was deliberately chosen because it was strong with the dark side of the Force, which helped mask Yoda's presence.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "What is the significance of the dice hanging in the Millennium Falcon's cockpit?",
+    "questionType": "MultipleChoice",
+    "options": ["They were used in the game Han won the ship with", "They were a gift from Leia", "They belonged to Han's father", "They're just decorative"],
+    "correctAnswer": "They were used in the game Han won the ship with",
+    "universe": "StarWars",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "The name 'Padmé' means 'lotus flower' in Sanskrit.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "Which Star Wars film was the first to not feature the character R2-D2?",
+    "questionType": "MultipleChoice",
+    "options": ["Solo: A Star Wars Story", "Rogue One", "The Last Jedi", "The Rise of Skywalker"],
+    "correctAnswer": "Solo: A Star Wars Story",
+    "universe": "StarWars",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "The word 'Ewok' is never spoken in any Star Wars film.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "Which Pixar film took the longest to develop, at nearly 10 years?",
+    "questionType": "MultipleChoice",
+    "options": ["Brave", "Toy Story", "WALL-E", "Finding Nemo"],
+    "correctAnswer": "WALL-E",
+    "universe": "Pixar",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "Every Pixar film since 'A Bug's Life' has featured a scene during the end credits with 'outtakes' or additional scenes.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "Pixar",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "What was the first Pixar short film to win an Academy Award?",
+    "questionType": "MultipleChoice",
+    "options": ["Tin Toy", "Luxo Jr.", "Geri's Game", "Red's Dream"],
+    "correctAnswer": "Tin Toy",
+    "universe": "Pixar",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "In 'Toy Story', the carpet pattern in Sid's house is identical to the carpet pattern in the Overlook Hotel from 'The Shining'.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "Which Pixar film was the first to feature a human as the main protagonist?",
+    "questionType": "MultipleChoice",
+    "options": ["The Incredibles", "Up", "Brave", "Ratatouille"],
+    "correctAnswer": "The Incredibles",
+    "universe": "Pixar",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "The protagonist in 'The Legend of Zelda: Majora's Mask' is actually the same character as the Hero of Time from 'Ocarina of Time'.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "What is the name of Link's boat in 'The Wind Waker'?",
+    "questionType": "MultipleChoice",
+    "options": ["The King of Red Lions", "The Wave Rider", "The Sea Breeze", "The Ocean King"],
+    "correctAnswer": "The King of Red Lions",
+    "universe": "Zelda",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "In the original 'The Legend of Zelda' game, the Triforce of Courage does not appear.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "Which of these games is the direct sequel to 'The Legend of Zelda: Ocarina of Time'?",
+    "questionType": "MultipleChoice",
+    "options": ["Majora's Mask", "Twilight Princess", "Wind Waker", "A Link to the Past"],
+    "correctAnswer": "Majora's Mask",
+    "universe": "Zelda",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "In 'Skyward Sword', it is revealed that Zelda is a reincarnation of the goddess Hylia.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 5
+  }
+]

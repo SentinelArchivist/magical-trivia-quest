@@ -1,0 +1,663 @@
+[
+  {
+    "questionText": "Walt Disney's first feature-length animated film was 'Snow White and the Seven Dwarfs'.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "What are the names of Cinderella's stepsisters?",
+    "questionType": "MultipleChoice",
+    "options": ["Anastasia and Drizella", "Prudence and Patience", "Flora and Fauna", "Abigail and Victoria"],
+    "correctAnswer": "Anastasia and Drizella",
+    "universe": "Disney",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "In 'The Little Mermaid', Ursula has two eel companions named Flotsam and Jetsam.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "The Fairy Godmother in 'Cinderella' says 'Bibbidi-Bobbidi-Boo'.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Which Disney character says 'Ohana means family, and family means nobody gets left behind or forgotten'?",
+    "questionType": "MultipleChoice",
+    "options": ["Stitch", "Lilo", "Nani", "David"],
+    "correctAnswer": "Stitch",
+    "universe": "Disney",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "The witch in 'Snow White' offers her an apple.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Bambi's mother was captured by hunters.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "Disney",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Who is Simba's evil uncle in 'The Lion King'?",
+    "questionType": "MultipleChoice",
+    "options": ["Scar", "Mufasa", "Rafiki", "Timon"],
+    "correctAnswer": "Scar",
+    "universe": "Disney",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "In 'Aladdin', the Genie cannot kill anyone.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Which Disney princess has a chameleon as a pet?",
+    "questionType": "MultipleChoice",
+    "options": ["Rapunzel", "Ariel", "Belle", "Jasmine"],
+    "correctAnswer": "Rapunzel",
+    "universe": "Disney",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "In 'Beauty and the Beast', Gaston uses antlers in all of his decorating.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "The villain in 'The Little Mermaid' was inspired by Divine, a drag queen.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "What does Tiana want to open in 'The Princess and the Frog'?",
+    "questionType": "MultipleChoice",
+    "options": ["A restaurant", "A clothing store", "A flower shop", "A hotel"],
+    "correctAnswer": "A restaurant",
+    "universe": "Disney",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Timon and Pumbaa taught Simba the phrase 'Hakuna Matata'.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "The Evil Queen in 'Snow White' transforms into an old hag.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Which Disney princess has a tiger as a pet?",
+    "questionType": "MultipleChoice",
+    "options": ["Jasmine", "Mulan", "Tiana", "Merida"],
+    "correctAnswer": "Jasmine",
+    "universe": "Disney",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Sleeping Beauty's real name is Aurora.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "In 'The Aristocats', the butler tries to get rid of the cats to inherit the fortune.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "What was the name of Ariel's father in 'The Little Mermaid'?",
+    "questionType": "MultipleChoice",
+    "options": ["King Triton", "King Neptune", "King Poseidon", "King Atlas"],
+    "correctAnswer": "King Triton",
+    "universe": "Disney",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Cruella De Vil wanted to make a coat out of puppy fur.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Spider-Man gained his powers after being bitten by a radioactive spider.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "What is the name of Tony Stark's company?",
+    "questionType": "MultipleChoice",
+    "options": ["Stark Industries", "Stark Enterprises", "Stark Technologies", "Stark International"],
+    "correctAnswer": "Stark Industries",
+    "universe": "Marvel",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Captain America's real name is Steve Rogers.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Bruce Banner transforms into the Hulk when he is angry.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Who is Thor's adoptive brother?",
+    "questionType": "MultipleChoice",
+    "options": ["Loki", "Odin", "Heimdall", "Balder"],
+    "correctAnswer": "Loki",
+    "universe": "Marvel",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Doctor Strange wears the Time Stone in the Eye of Agamotto.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Black Panther's suit is made of vibranium.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Which of these is NOT one of the original Avengers in the MCU?",
+    "questionType": "MultipleChoice",
+    "options": ["Spider-Man", "Black Widow", "Hawkeye", "Hulk"],
+    "correctAnswer": "Spider-Man",
+    "universe": "Marvel",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Wanda Maximoff is also known as Scarlet Witch.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "What is the name of the artificial intelligence system created by Tony Stark to replace JARVIS?",
+    "questionType": "MultipleChoice",
+    "options": ["FRIDAY", "EDITH", "ULTRON", "KAREN"],
+    "correctAnswer": "FRIDAY",
+    "universe": "Marvel",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Thanos' home planet is called Titan.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Star-Lord's real name is Peter Quill.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Which Infinity Stone gives the user power over souls?",
+    "questionType": "MultipleChoice",
+    "options": ["Soul Stone", "Mind Stone", "Power Stone", "Reality Stone"],
+    "correctAnswer": "Soul Stone",
+    "universe": "Marvel",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "The Winter Soldier's real name is Bucky Barnes.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Nick Fury wears an eye patch on his right eye.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "Marvel",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Who is Spider-Man's uncle who dies early in his story?",
+    "questionType": "MultipleChoice",
+    "options": ["Uncle Ben", "Uncle Aaron", "Uncle Richard", "Uncle Peter"],
+    "correctAnswer": "Uncle Ben",
+    "universe": "Marvel",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "The Guardians of the Galaxy include a sentient tree named Groot.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Vision has the Mind Stone embedded in his forehead.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Which planet is Tatooine orbiting?",
+    "questionType": "MultipleChoice",
+    "options": ["Twin suns", "A red giant", "A white dwarf", "A blue supergiant"],
+    "correctAnswer": "Twin suns",
+    "universe": "StarWars",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Princess Leia and Luke Skywalker are twins.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Obi-Wan Kenobi goes by the name 'Ben' while in hiding on Tatooine.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Who is Anakin Skywalker's mother?",
+    "questionType": "MultipleChoice",
+    "options": ["Shmi Skywalker", "Padmé Amidala", "Beru Lars", "Breha Organa"],
+    "correctAnswer": "Shmi Skywalker",
+    "universe": "StarWars",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Midi-chlorians are microscopic life forms that live in all living cells.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "The Battle of Hoth takes place on an ice planet.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "What species is Chewbacca?",
+    "questionType": "MultipleChoice",
+    "options": ["Wookiee", "Ewok", "Gungan", "Hutt"],
+    "correctAnswer": "Wookiee",
+    "universe": "StarWars",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "The Millennium Falcon made the Kessel Run in less than 12 parsecs.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Who was the Jedi Master who trained Obi-Wan Kenobi?",
+    "questionType": "MultipleChoice",
+    "options": ["Qui-Gon Jinn", "Yoda", "Mace Windu", "Count Dooku"],
+    "correctAnswer": "Qui-Gon Jinn",
+    "universe": "StarWars",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "C-3PO is fluent in over six million forms of communication.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "The Rebel base in 'A New Hope' is located on Yavin 4.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "What color is Mace Windu's lightsaber?",
+    "questionType": "MultipleChoice",
+    "options": ["Purple", "Blue", "Green", "Red"],
+    "correctAnswer": "Purple",
+    "universe": "StarWars",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Jabba the Hutt kept Princess Leia as a slave.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "The Sith always come in pairs: a master and an apprentice.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Which planet is home to the Wookiees?",
+    "questionType": "MultipleChoice",
+    "options": ["Kashyyyk", "Endor", "Naboo", "Jakku"],
+    "correctAnswer": "Kashyyyk",
+    "universe": "StarWars",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Emperor Palpatine's first name is Sheev.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "The largest moon of Endor is known as the Forest Moon.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "In 'Toy Story', what is written on the bottom of Woody's boot?",
+    "questionType": "MultipleChoice",
+    "options": ["Andy", "Woody", "Sheriff", "Pixar"],
+    "correctAnswer": "Andy",
+    "universe": "Pixar",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "The main character in 'Ratatouille' is a rat named Remy.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Mike Wazowski has two eyes.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "Pixar",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Which Pixar movie features a robot who falls in love?",
+    "questionType": "MultipleChoice",
+    "options": ["WALL-E", "The Incredibles", "Cars", "Brave"],
+    "correctAnswer": "WALL-E",
+    "universe": "Pixar",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "In 'Finding Nemo', Dory speaks whale.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "In 'Up', Carl and Ellie wanted to move to Paradise Falls.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "What is the name of the young boy in 'Up'?",
+    "questionType": "MultipleChoice",
+    "options": ["Russell", "Kevin", "Charles", "Dug"],
+    "correctAnswer": "Russell",
+    "universe": "Pixar",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Merida's mother transforms into a bear in 'Brave'.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "What is the name of the scary neighbor kid in 'Toy Story'?",
+    "questionType": "MultipleChoice",
+    "options": ["Sid", "Andy", "Al", "Rex"],
+    "correctAnswer": "Sid",
+    "universe": "Pixar",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "In 'The Incredibles', Frozone's power is ice manipulation.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "The monsters in 'Monsters, Inc.' collect children's laughter as a power source.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "What is the name of the Mexican boy in 'Coco'?",
+    "questionType": "MultipleChoice",
+    "options": ["Miguel", "Ernesto", "Héctor", "Jorge"],
+    "correctAnswer": "Miguel",
+    "universe": "Pixar",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Lightning McQueen's number in 'Cars' is 95.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "In 'Inside Out', Riley moves to San Francisco.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Which emotion is represented by the color yellow in 'Inside Out'?",
+    "questionType": "MultipleChoice",
+    "options": ["Joy", "Sadness", "Fear", "Disgust"],
+    "correctAnswer": "Joy",
+    "universe": "Pixar",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "The chef Gusteau's motto in 'Ratatouille' is 'Anyone can cook'.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "WALL-E's love interest is named EVE.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "In 'The Legend of Zelda: Ocarina of Time', Link can travel between two time periods.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "What is the name of Link's fairy companion in 'Ocarina of Time'?",
+    "questionType": "MultipleChoice",
+    "options": ["Navi", "Tatl", "Tael", "Fi"],
+    "correctAnswer": "Navi",
+    "universe": "Zelda",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Ganondorf possesses the Triforce of Power.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "The Legend of Zelda series was created by Shigeru Miyamoto.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Which race lives in the waters of Hyrule?",
+    "questionType": "MultipleChoice",
+    "options": ["Zora", "Goron", "Gerudo", "Kokiri"],
+    "correctAnswer": "Zora",
+    "universe": "Zelda",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "In 'Breath of the Wild', Link wakes up after sleeping for 100 years.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "The Great Deku Tree is the guardian of the Kokiri Forest.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "What instrument does Link use in 'Wind Waker'?",
+    "questionType": "MultipleChoice",
+    "options": ["Wind Waker", "Ocarina", "Harp", "Flute"],
+    "correctAnswer": "Wind Waker",
+    "universe": "Zelda",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "The Sheikah Slate in 'Breath of the Wild' allows Link to use different powers.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "What is the name of Link's companion in 'Twilight Princess'?",
+    "questionType": "MultipleChoice",
+    "options": ["Midna", "Fi", "Navi", "Ezlo"],
+    "correctAnswer": "Midna",
+    "universe": "Zelda",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "In 'Majora's Mask', Link must prevent the moon from crashing into the world.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "The Koroks are tree-like creatures that appear in multiple Zelda games.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "What is typically the main collectible item in Zelda dungeons?",
+    "questionType": "MultipleChoice",
+    "options": ["Keys", "Bombs", "Arrows", "Potions"],
+    "correctAnswer": "Keys",
+    "universe": "Zelda",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "The Gerudo are a race of primarily female warriors.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "In 'Breath of the Wild', Link can climb almost any surface.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Which of these is NOT a transformation mask in 'Majora's Mask'?",
+    "questionType": "MultipleChoice",
+    "options": ["Wolf Mask", "Goron Mask", "Zora Mask", "Deku Mask"],
+    "correctAnswer": "Wolf Mask",
+    "universe": "Zelda",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "The Master Sword is also known as the Sword of Evil's Bane.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 2
+  },
+  {
+    "questionText": "Zelda disguises herself as Sheik in 'Ocarina of Time'.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 2
+  }
+]

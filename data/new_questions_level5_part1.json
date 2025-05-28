@@ -1,0 +1,190 @@
+[
+  {
+    "questionText": "Which Disney film's opening sequence features a book that opens to reveal illuminated pages?",
+    "questionType": "MultipleChoice",
+    "options": ["Sleeping Beauty", "Cinderella", "Snow White", "Beauty and the Beast"],
+    "correctAnswer": "Sleeping Beauty",
+    "universe": "Disney",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "The song 'Let It Go' from Frozen was originally written for a villain.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "Which Disney character was originally going to be named Mortimer?",
+    "questionType": "MultipleChoice",
+    "options": ["Mickey Mouse", "Donald Duck", "Goofy", "Pluto"],
+    "correctAnswer": "Mickey Mouse",
+    "universe": "Disney",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "The original concept for EPCOT (Experimental Prototype Community of Tomorrow) was for it to be an actual city where people would live and work.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "What was the code name for Disney's Animal Kingdom during its development?",
+    "questionType": "MultipleChoice",
+    "options": ["Project X", "Wild Kingdom", "Safari Village", "Animal World"],
+    "correctAnswer": "Project X",
+    "universe": "Disney",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "In the Marvel Comics universe, which of these mutants is classified as an Omega-level mutant?",
+    "questionType": "MultipleChoice",
+    "options": ["Jean Grey", "Wolverine", "Nightcrawler", "Cyclops"],
+    "correctAnswer": "Jean Grey",
+    "universe": "Marvel",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "In the original Marvel Comics, Thanos was motivated to collect the Infinity Stones to impress Death, who he was in love with.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "Which Marvel superhero was created first chronologically?",
+    "questionType": "MultipleChoice",
+    "options": ["Captain America", "Namor the Sub-Mariner", "Human Torch", "Black Widow"],
+    "correctAnswer": "Namor the Sub-Mariner",
+    "universe": "Marvel",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "The original Spider-Woman (Jessica Drew) was created primarily to secure a trademark rather than as a character for storytelling.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "What is the name of the symbiote that first bonded with Spider-Man before bonding with Eddie Brock to become Venom?",
+    "questionType": "MultipleChoice",
+    "options": ["It had no name", "Toxin", "Carnage", "Riot"],
+    "correctAnswer": "It had no name",
+    "universe": "Marvel",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "The Star Wars sound effect for TIE Fighters was created by combining an elephant call with a car driving on wet pavement.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "What is the name of Boba Fett's ship in Star Wars canon before it was renamed?",
+    "questionType": "MultipleChoice",
+    "options": ["Slave I", "Firespray", "Serenity", "Ebon Hawk"],
+    "correctAnswer": "Slave I",
+    "universe": "StarWars",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "The character Grand Admiral Thrawn first appeared in a Star Wars novel before appearing in any visual media.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "Which actor portrayed both a clone trooper and Jango Fett in the Star Wars prequel trilogy?",
+    "questionType": "MultipleChoice",
+    "options": ["Temuera Morrison", "Ahmed Best", "Daniel Logan", "Jay Laga'aia"],
+    "correctAnswer": "Temuera Morrison",
+    "universe": "StarWars",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "The 'Wilhelm Scream' sound effect appears in all Star Wars movies directed by George Lucas.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "What was the original title of Pixar's 'Monsters, Inc.' during development?",
+    "questionType": "MultipleChoice",
+    "options": ["Hidden City", "Monsters in the Closet", "Scare School", "Creature Factory"],
+    "correctAnswer": "Hidden City",
+    "universe": "Pixar",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "The Luxo Jr. lamp in the Pixar logo was the subject of Pixar's first short film.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "Which Pixar film was originally conceptualized as a direct-to-video sequel?",
+    "questionType": "MultipleChoice",
+    "options": ["Toy Story 2", "Finding Dory", "Cars 2", "Incredibles 2"],
+    "correctAnswer": "Toy Story 2",
+    "universe": "Pixar",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "The character Carl Fredricksen in 'Up' was partially modeled after Spencer Tracy.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "Pixar",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "What is the name of the ship in 'WALL-E' that holds the remnants of humanity?",
+    "questionType": "MultipleChoice",
+    "options": ["Axiom", "Genesis", "New Dawn", "Exodus"],
+    "correctAnswer": "Axiom",
+    "universe": "Pixar",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "The name 'Ganon' was used before 'Ganondorf' in the Zelda series.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "In which Zelda game did Dark Link first appear?",
+    "questionType": "MultipleChoice",
+    "options": ["Zelda II: The Adventure of Link", "The Legend of Zelda", "A Link to the Past", "Ocarina of Time"],
+    "correctAnswer": "Zelda II: The Adventure of Link",
+    "universe": "Zelda",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "The final boss in 'Majora's Mask' is a giant version of the mask itself.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "Zelda",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "Which of these Zelda games does NOT feature the Master Sword?",
+    "questionType": "MultipleChoice",
+    "options": ["Majora's Mask", "Twilight Princess", "Wind Waker", "Skyward Sword"],
+    "correctAnswer": "Majora's Mask",
+    "universe": "Zelda",
+    "difficultyTier": 5
+  },
+  {
+    "questionText": "In 'Breath of the Wild', Link's Divine Beast is named Vah Link.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "Zelda",
+    "difficultyTier": 5
+  }
+]

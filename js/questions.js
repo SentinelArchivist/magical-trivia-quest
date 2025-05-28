@@ -3,6 +3,7 @@ let questionPool = [];
 
 // List of question files to load
 const QUESTION_FILES = [
+    // Original question files
     'data/questions.json',            // Original questions file
     'data/questions_level1.json',     // Level 1 questions
     'data/questions_level2.json',     // Level 2 questions
@@ -10,7 +11,24 @@ const QUESTION_FILES = [
     'data/questions_level4.json',     // Level 4 questions
     'data/questions_level5.json',     // Level 5 questions
     'data/pixar_questions.json',      // Pixar questions
-    'data/zelda_questions.json'       // Zelda questions
+    'data/zelda_questions.json',      // Zelda questions
+    
+    // New question files - Level 1 to 3
+    'data/new_questions_level1.json', // New level 1 questions
+    'data/new_questions_level2.json', // New level 2 questions
+    'data/new_questions_level3.json', // New level 3 questions
+    
+    // New question files - Level 4 (split into parts)
+    'data/new_questions_level4_part1.json', // New level 4 questions part 1
+    'data/new_questions_level4_part2.json', // New level 4 questions part 2
+    'data/new_questions_level4_part3.json', // New level 4 questions part 3
+    'data/new_questions_level4_part4.json', // New level 4 questions part 4
+    
+    // New question files - Level 5 (split into parts)
+    'data/new_questions_level5_part1.json', // New level 5 questions part 1
+    'data/new_questions_level5_part2.json', // New level 5 questions part 2
+    'data/new_questions_level5_part3.json', // New level 5 questions part 3
+    'data/new_questions_level5_part4.json'  // New level 5 questions part 4
 ];
 
 // Load questions from all JSON files

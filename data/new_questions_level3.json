@@ -1,0 +1,685 @@
+[
+  {
+    "questionText": "Which Disney princess was based on a real historical figure?",
+    "questionType": "MultipleChoice",
+    "options": ["Pocahontas", "Mulan", "Merida", "Elsa"],
+    "correctAnswer": "Pocahontas",
+    "universe": "Disney",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "The original voice of Mickey Mouse was Walt Disney himself.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "In Disney's Hercules, how many muses are there?",
+    "questionType": "MultipleChoice",
+    "options": ["5", "9", "3", "7"],
+    "correctAnswer": "5",
+    "universe": "Disney",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Snow White was the first full-length animated feature film produced by Walt Disney.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Which of these Disney villains was NOT originally human?",
+    "questionType": "MultipleChoice",
+    "options": ["Ursula", "Maleficent", "Jafar", "Cruella de Vil"],
+    "correctAnswer": "Ursula",
+    "universe": "Disney",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "The movie 'Tangled' was Disney's 50th animated feature film.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Which Disney movie features the song 'Be Our Guest'?",
+    "questionType": "MultipleChoice",
+    "options": ["Beauty and the Beast", "Aladdin", "The Little Mermaid", "Cinderella"],
+    "correctAnswer": "Beauty and the Beast",
+    "universe": "Disney",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Tinker Bell was based on actress Margaret Kerry.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "In 'Aladdin', how many wishes does the Genie grant Aladdin?",
+    "questionType": "MultipleChoice",
+    "options": ["3", "4", "2", "5"],
+    "correctAnswer": "3",
+    "universe": "Disney",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "The country pavilion in EPCOT at Walt Disney World was originally planned to include rides.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "What was the first Disney film to be nominated for Best Picture at the Academy Awards?",
+    "questionType": "MultipleChoice",
+    "options": ["Beauty and the Beast", "Snow White", "Fantasia", "Mary Poppins"],
+    "correctAnswer": "Beauty and the Beast",
+    "universe": "Disney",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Disney's 'The Black Cauldron' was a box office success.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "Disney",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Which Disney animated film features a character named Pascal?",
+    "questionType": "MultipleChoice",
+    "options": ["Tangled", "The Princess and the Frog", "Frozen", "Moana"],
+    "correctAnswer": "Tangled",
+    "universe": "Disney",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "The original storyline for 'Frozen' had Elsa as the villain.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Which Disney princess has a tattoo?",
+    "questionType": "MultipleChoice",
+    "options": ["Moana", "Pocahontas", "Merida", "Mulan"],
+    "correctAnswer": "Moana",
+    "universe": "Disney",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "The 'Pirates of the Caribbean' movie franchise was inspired by a Disney theme park ride.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "In 'Mulan', what is the name of the family guardian dragon?",
+    "questionType": "MultipleChoice",
+    "options": ["Mushu", "Khan", "Shang", "Cri-Kee"],
+    "correctAnswer": "Mushu",
+    "universe": "Disney",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "The Disney theme park in Paris was originally called Euro Disney.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "What was the first Disney/Pixar film to win the Academy Award for Best Animated Feature?",
+    "questionType": "MultipleChoice",
+    "options": ["Finding Nemo", "Toy Story", "Monsters, Inc.", "The Incredibles"],
+    "correctAnswer": "Finding Nemo",
+    "universe": "Disney",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Walt Disney World Resort in Florida opened in 1971.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Disney",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "In the MCU, which metal was used to create the Iron Man suit?",
+    "questionType": "MultipleChoice",
+    "options": ["Gold-Titanium Alloy", "Vibranium", "Adamantium", "Steel"],
+    "correctAnswer": "Gold-Titanium Alloy",
+    "universe": "Marvel",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "In the comics, Ant-Man's helmet allows him to communicate with ants.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Which actor played Thanos in the Marvel Cinematic Universe?",
+    "questionType": "MultipleChoice",
+    "options": ["Josh Brolin", "Tom Hiddleston", "James Spader", "Kurt Russell"],
+    "correctAnswer": "Josh Brolin",
+    "universe": "Marvel",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Spider-Man's web shooters were mechanical devices in the original comics.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "What is the name of Thor's hammer?",
+    "questionType": "MultipleChoice",
+    "options": ["Mjolnir", "Stormbreaker", "Gungnir", "Jarnbjorn"],
+    "correctAnswer": "Mjolnir",
+    "universe": "Marvel",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Vibranium is found primarily in Wakanda.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Which of these characters was NOT part of the original Guardians of the Galaxy team in the MCU?",
+    "questionType": "MultipleChoice",
+    "options": ["Mantis", "Star-Lord", "Rocket", "Groot"],
+    "correctAnswer": "Mantis",
+    "universe": "Marvel",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "The infinity gauntlet was worn on Thanos's left hand.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "What is the real name of the Black Panther in the MCU?",
+    "questionType": "MultipleChoice",
+    "options": ["T'Challa", "N'Jadaka", "M'Baku", "N'Jobu"],
+    "correctAnswer": "T'Challa",
+    "universe": "Marvel",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Doctor Strange was a neurosurgeon before becoming a sorcerer.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "In which movie did Spider-Man first appear in the MCU?",
+    "questionType": "MultipleChoice",
+    "options": ["Captain America: Civil War", "Spider-Man: Homecoming", "Avengers: Infinity War", "Iron Man 3"],
+    "correctAnswer": "Captain America: Civil War",
+    "universe": "Marvel",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Wolverine's skeleton is made of vibranium.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "Marvel",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Who is known as the 'Mad Titan' in the Marvel Universe?",
+    "questionType": "MultipleChoice",
+    "options": ["Thanos", "Ronan", "Loki", "Ultron"],
+    "correctAnswer": "Thanos",
+    "universe": "Marvel",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "The Red Skull was the main villain in the first Captain America movie.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "In which year was the first Iron Man movie released, launching the Marvel Cinematic Universe?",
+    "questionType": "MultipleChoice",
+    "options": ["2008", "2010", "2012", "2005"],
+    "correctAnswer": "2008",
+    "universe": "Marvel",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Hawkeye never misses a shot with his bow and arrow.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "Marvel",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Which Infinity Stone was housed in the Tesseract?",
+    "questionType": "MultipleChoice",
+    "options": ["Space Stone", "Reality Stone", "Power Stone", "Mind Stone"],
+    "correctAnswer": "Space Stone",
+    "universe": "Marvel",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Nick Fury lost his eye to a Flerken (alien that looks like a cat) named Goose.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Marvel",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Who directed the first Star Wars film?",
+    "questionType": "MultipleChoice",
+    "options": ["George Lucas", "Steven Spielberg", "J.J. Abrams", "Irvin Kershner"],
+    "correctAnswer": "George Lucas",
+    "universe": "StarWars",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "The lightsaber sound effect was created by combining the hum of an old TV and the buzz of a film projector motor.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Which planet was destroyed by the Death Star in 'Star Wars: A New Hope'?",
+    "questionType": "MultipleChoice",
+    "options": ["Alderaan", "Tatooine", "Naboo", "Hoth"],
+    "correctAnswer": "Alderaan",
+    "universe": "StarWars",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Anakin Skywalker was born into slavery on Tatooine.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Who trained Obi-Wan Kenobi?",
+    "questionType": "MultipleChoice",
+    "options": ["Qui-Gon Jinn", "Yoda", "Mace Windu", "Count Dooku"],
+    "correctAnswer": "Qui-Gon Jinn",
+    "universe": "StarWars",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "The Clone Wars lasted for three years.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "What species is Yoda?",
+    "questionType": "MultipleChoice",
+    "options": ["Unknown", "Lannik", "Dathomirian", "Whipid"],
+    "correctAnswer": "Unknown",
+    "universe": "StarWars",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Luke and Leia are revealed to be siblings in 'The Empire Strikes Back'.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "StarWars",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Which Jedi Master sat on the Jedi Council but was not granted the rank of Master?",
+    "questionType": "MultipleChoice",
+    "options": ["Anakin Skywalker", "Obi-Wan Kenobi", "Ahsoka Tano", "Qui-Gon Jinn"],
+    "correctAnswer": "Anakin Skywalker",
+    "universe": "StarWars",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "The original trilogy of Star Wars films was released in the 1970s and 1980s.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "What was the name of Jabba the Hutt's pet in 'Return of the Jedi'?",
+    "questionType": "MultipleChoice",
+    "options": ["Salacious B. Crumb", "Max Rebo", "Bib Fortuna", "Rancor"],
+    "correctAnswer": "Salacious B. Crumb",
+    "universe": "StarWars",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Padmé Amidala was once the elected Queen of Naboo.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Which bounty hunter captured Han Solo in 'The Empire Strikes Back'?",
+    "questionType": "MultipleChoice",
+    "options": ["Boba Fett", "Greedo", "Dengar", "IG-88"],
+    "correctAnswer": "Boba Fett",
+    "universe": "StarWars",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Darth Vader's suit was designed to keep him alive after his injuries on Mustafar.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "What is the name of the planet where Yoda went into exile?",
+    "questionType": "MultipleChoice",
+    "options": ["Dagobah", "Kashyyyk", "Naboo", "Endor"],
+    "correctAnswer": "Dagobah",
+    "universe": "StarWars",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "The Star Wars opening crawl was inspired by the Flash Gordon serials.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "StarWars",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "In 'Revenge of the Sith', who kills Count Dooku?",
+    "questionType": "MultipleChoice",
+    "options": ["Anakin Skywalker", "Obi-Wan Kenobi", "Mace Windu", "Yoda"],
+    "correctAnswer": "Anakin Skywalker",
+    "universe": "StarWars",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Chewbacca received a medal at the end of 'A New Hope'.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "False",
+    "universe": "StarWars",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "In Pixar's 'Finding Nemo', what is the address that Dory remembers?",
+    "questionType": "MultipleChoice",
+    "options": ["42 Wallaby Way, Sydney", "P. Sherman, 42 Wallaby Way, Sydney", "P. Sherman, 24 Wallaby Way, Sydney", "42 Wallaby Way, Melbourne"],
+    "correctAnswer": "P. Sherman, 42 Wallaby Way, Sydney",
+    "universe": "Pixar",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Pixar's 'A Bug's Life' was released before 'Toy Story 2'.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Which character does not appear in Pixar's 'Toy Story'?",
+    "questionType": "MultipleChoice",
+    "options": ["Jessie", "Woody", "Buzz Lightyear", "Bo Peep"],
+    "correctAnswer": "Jessie",
+    "universe": "Pixar",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "In 'The Incredibles', Syndrome was once Mr. Incredible's biggest fan.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "What is the name of the company that makes the toys in 'Toy Story'?",
+    "questionType": "MultipleChoice",
+    "options": ["Al's Toy Barn", "Tri-County Toys", "Play Time", "Sunny Day Toys"],
+    "correctAnswer": "Al's Toy Barn",
+    "universe": "Pixar",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "In 'Up', Carl and Ellie met as children and later got married.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "What is the name of the abandoned Earth-cleaning robot in 'WALL-E'?",
+    "questionType": "MultipleChoice",
+    "options": ["WALL-E", "EVE", "AUTO", "MO"],
+    "correctAnswer": "WALL-E",
+    "universe": "Pixar",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "The Pizza Planet truck appears in almost every Pixar film.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "What does the acronym WALL-E stand for?",
+    "questionType": "MultipleChoice",
+    "options": ["Waste Allocation Load Lifter Earth-Class", "Waste Advanced Loader Lifter Earth", "Waste Allocation Lift Loader Earth", "Waste And Litter Lifter Earth"],
+    "correctAnswer": "Waste Allocation Load Lifter Earth-Class",
+    "universe": "Pixar",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Pixar's first feature film was 'Toy Story', released in 1995.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "In 'Inside Out', which emotion is voiced by Amy Poehler?",
+    "questionType": "MultipleChoice",
+    "options": ["Joy", "Sadness", "Disgust", "Fear"],
+    "correctAnswer": "Joy",
+    "universe": "Pixar",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "The character Dug in 'Up' is a Golden Retriever.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Which famous chef inspired the character of Anton Ego in 'Ratatouille'?",
+    "questionType": "MultipleChoice",
+    "options": ["None - he's an original character", "Gordon Ramsay", "Anthony Bourdain", "Julia Child"],
+    "correctAnswer": "None - he's an original character",
+    "universe": "Pixar",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "In 'Finding Nemo', Marlin and Nemo are clownfish.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "What is the name of Andy's neighbor who tortures toys in 'Toy Story'?",
+    "questionType": "MultipleChoice",
+    "options": ["Sid", "Al", "Stinky Pete", "Lotso"],
+    "correctAnswer": "Sid",
+    "universe": "Pixar",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "The director of 'Monsters, Inc.' also directed 'Up'.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Pixar",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "In 'Brave', Merida's mother transforms into which animal?",
+    "questionType": "MultipleChoice",
+    "options": ["Bear", "Wolf", "Hawk", "Fox"],
+    "correctAnswer": "Bear",
+    "universe": "Pixar",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "The Triforce in 'The Legend of Zelda' consists of the Triforce of Power, Wisdom, and Courage.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "In 'Ocarina of Time', who is revealed to be Princess Zelda in disguise?",
+    "questionType": "MultipleChoice",
+    "options": ["Sheik", "Impa", "Nabooru", "Ruto"],
+    "correctAnswer": "Sheik",
+    "universe": "Zelda",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Link is left-handed in most Zelda games.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "What is the name of Link's horse in 'Ocarina of Time'?",
+    "questionType": "MultipleChoice",
+    "options": ["Epona", "Malon", "Catherine", "Storm"],
+    "correctAnswer": "Epona",
+    "universe": "Zelda",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "The first game in the Legend of Zelda series was released in 1986.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Which of these is NOT a transformation in 'Majora's Mask'?",
+    "questionType": "MultipleChoice",
+    "options": ["Wolf", "Goron", "Zora", "Deku"],
+    "correctAnswer": "Wolf",
+    "universe": "Zelda",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "The Master Sword is sometimes called 'The Blade of Evil's Bane'.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "In 'The Wind Waker', what is the name of Link's sister?",
+    "questionType": "MultipleChoice",
+    "options": ["Aryll", "Zelda", "Tetra", "Medli"],
+    "correctAnswer": "Aryll",
+    "universe": "Zelda",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "The Zelda timeline officially splits into three branches after 'Ocarina of Time'.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "What instrument does Link play in 'Majora's Mask'?",
+    "questionType": "MultipleChoice",
+    "options": ["Ocarina", "Harp", "Wind Waker", "Flute"],
+    "correctAnswer": "Ocarina",
+    "universe": "Zelda",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Ganondorf's full name is Ganondorf Dragmire.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Which game introduced the character Midna?",
+    "questionType": "MultipleChoice",
+    "options": ["Twilight Princess", "Majora's Mask", "Wind Waker", "Skyward Sword"],
+    "correctAnswer": "Twilight Princess",
+    "universe": "Zelda",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "In 'Breath of the Wild', there are four Divine Beasts.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "What is the name of the recurring merchant in many Zelda games?",
+    "questionType": "MultipleChoice",
+    "options": ["Beedle", "Tingle", "Happy Mask Salesman", "Dampe"],
+    "correctAnswer": "Beedle",
+    "universe": "Zelda",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "The Fierce Deity Mask is the most powerful mask in 'Majora's Mask'.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "What title does Ganondorf hold among the Gerudo?",
+    "questionType": "MultipleChoice",
+    "options": ["King", "Chief", "Lord", "Prince"],
+    "correctAnswer": "King",
+    "universe": "Zelda",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "In 'Skyward Sword', Link's sword contains a spirit named Fi.",
+    "questionType": "TrueFalse",
+    "correctAnswer": "True",
+    "universe": "Zelda",
+    "difficultyTier": 3
+  },
+  {
+    "questionText": "Which game features the Twilight Realm?",
+    "questionType": "MultipleChoice",
+    "options": ["Twilight Princess", "Majora's Mask", "Ocarina of Time", "Breath of the Wild"],
+    "correctAnswer": "Twilight Princess",
+    "universe": "Zelda",
+    "difficultyTier": 3
+  }
+]
