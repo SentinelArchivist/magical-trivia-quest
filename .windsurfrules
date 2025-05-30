@@ -1,31 +1,28 @@
-# Coding pattern preferences
+# Coding & Structure Rules
 
-- Always prefer simple solutions
-- Avoid duplication of code whenever possible, which means checking other areas of the codebase that might already have similar code and functionality
-- Write code that takes into account the different environments: dev, test, and prod
-- You are careful to only make changes that are requested or you are confident are well understood and related to the change being requested
-- When fixing an issue or bug, do not introduce a new pattern or technology without first exhausting all options for the existing implementation. And if you finally do this, make sure to remove the old implementation afterwards so we don't have duplicate logic.
-- Keep the codebase very clean and organized.
-- Avoid writing scripts in files if possible, especially if the script is likely only to be run once
-- Avoid having files over 200-300 lines of code. Refactor at that point.
-- Mocking data is only needed for tests, never mock data for dev or prod
-- Never add stubbing or fake data patterns to code that affects the dev or prod environments
-- Never overwrite my .env file without first asking and confirming
-
-# Technical stack
-
-- Python for the backend
-- html/js for the frontend
-- SQL databases, never JSON file storage
-- Separate databases for dev, test, and prod
-- Elasticsearch for search, using elastic.co hosting
-- Elastic.co will have dev and prod indexes
-- Python tests
-
-# Coding workflow preferences
-
-- Focus on the areas of code relevant to the task
-- Do not touch code that is unrelated to the task
-- Write thorough tests for all major functionality
-- Avoid making major changes to the patterns and architecture of how a feature works, after it has shown to work well, unless explicitly instructed
-- Always think about what other methods and areas of code might by affected by code changes
+- Impact Analysis: Before any code changes, always analyze all relevant parts of the codebase and dependencies, documenting all potential system-wide impacts of the changes.
+- Simplicity First: Always implement the simplest solution that meets all requirements, avoiding over-engineering and unrequested features.
+- No Duplication: Always avoid duplication of code.
+- No Scripts in Files: Always avoid writing scripts in files, if possible, especially if the script is likely to be run only once.
+- Tech Stack Adherence: Strictly use only the project's existing technology stack; new tech requires explicit, prior approval by the user. Exception: if no stack yet exists (e.g., new project), then default to html/js or python for the front end. Default to python for the backend.
+- Short, Focused Files: Always keep files short and focused, typically containing one class or a cohesive group of related functions/data structures that serve a single purpose.
+- SRP: Functions and methods should be as concise as possible and should always adhere strictly to the Single Responsibility Principle.
+- File Size: Always keep files as small as possible, while adhering to the standards described above (200-300 lines MAX, per file, is a good guideline in most cases).
+- Directory Structure: Maintain a clear, logical directory structure organized by feature or module.
+- Function/Method Design: Ensure all functions and methods are short, highly cohesive, and perform only a single, well-defined task.
+- Edit Existing Code First: Always look at existing code and determine whether an  edit or change would be sufficient for the task before writing new code or new files.
+- Prefer Existing Patterns: never drastically change existing patterns unless you’re highly confident the task at hand can’t be accomplished by iterating on existing patterns.
+- Naming Conventions: Employ meaningful, descriptive, and consistent naming for all identifiers.
+- Comments: Add concise comments ONLY for non-obvious logic, critical assumptions, or complex algorithms that cannot be clarified by code structure or naming alone; prioritize self-documenting code.
+- Error Handling: Always implement comprehensive error handling, rigorous input validation (types, ranges, formats), and thorough boundary condition checks.
+- Security: Always adhere to project-specific or language-standard secure coding practices to prevent vulnerabilities.
+- Mocking data is only needed for tests. Never use mock data outside of testing, and never in a way that would affect development or production environments.
+- Never overwrite my .env file without asking and getting my permission first.
+- Ambiguity & Conflicts: If task requirements are ambiguous or directly conflict with these rules, STOP and seek explicit clarification from the user before proceeding.
+- Server Restart with Changes: After making changes, always make sure to start up a new server and a new browser preview (if relevant) so I can test it.
+- Write Thorough Tests for All Major Functionality.
+- Rate limit all api endpoints.
+- Always use row level security (RLS).
+- Captcha on all auth routes/signup pages
+- If using hosting solution like vercel, enable attack challenge on their WAF.
+- Rule Authority: These rules are mandatory and non-negotiable unless a specific deviation is explicitly authorized by the user.

@@ -996,10 +996,10 @@ function activateSkill(skillId) {
             
         // Branch 2: Strategic skills - active versions
         case 'fiftyFifty':
-            // Remove half of incorrect answers
+            // Mark 50/50 skill as active: the next question display will reduce options to exactly 2 (correct + one incorrect)
             currentGameState.skillEffects.fiftyFiftyActive = true;
-            loadNextQuestion(); // Reload current question with 50/50 applied
-            showNotification('50/50 Chance skill activated!');
+            showNotification('50/50 Chance skill activated! Select your answer from two options.');
+            // Do NOT call loadNextQuestion(); do not skip or reload the question.
             break;
             
         case 'difficultyBypass':
